@@ -31,6 +31,7 @@ Blade language grammar is bases on https://github.com/Medalink/laravel-blade</st
 		<array>
 			<string>6090DFA3-9588-43A5-8C0F-E076B244EBC3</string>
 			<string>------------------------------------</string>
+			<string>CDD61A5F-4582-4E02-A873-F5712BE15740</string>
 			<string>05BBDA5B-80A3-4A40-8B44-704C4D217001</string>
 			<string>3ED84500-826D-4734-AB5C-994925F5B5E2</string>
 			<string>D053AAAB-AC4B-463D-A0E9-68C37CB355BA</string>
@@ -38,6 +39,18 @@ Blade language grammar is bases on https://github.com/Medalink/laravel-blade</st
 		</array>
 		<key>submenus</key>
 		<dict>
+			<key>CDD61A5F-4582-4E02-A873-F5712BE15740</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>9C50E655-6BF2-4F25-95E5-03DCD6CEFE03</string>
+					<string>------------------------------------</string>
+					<string>CDC7CFDD-FC85-4928-990B-2BC4EEDA7E01</string>
+					<string>EDADD256-C40C-48E8-BC70-CB0A13B5EB84</string>
+				</array>
+				<key>name</key>
+				<string>App</string>
+			</dict>
 			<key>77A45FC9-8256-47E3-BB7D-6417B0D1F590</key>
 			<dict>
 				<key>items</key>
@@ -48,12 +61,12 @@ Blade language grammar is bases on https://github.com/Medalink/laravel-blade</st
 					<string>BBB5ABED-92BD-4D43-8B14-40F579B40486</string>
 					<string>A75C6A77-3336-4059-A6AC-2F7C9A98F262</string>
 					<string>57B15FE4-965B-4683-ADFA-9AD595C9FC89</string>
-                    <string>------------------------------------</string>
-                    <string>E019FAEC-C75B-4A34-81FA-B07A966D1FA7</string>
+					<string>------------------------------------</string>
+					<string>E019FAEC-C75B-4A34-81FA-B07A966D1FA7</string>
 				</array>
 				<key>name</key>
 				<string>View</string>
-            </dict>
+			</dict>
 			<key>3ED84500-826D-4734-AB5C-994925F5B5E2</key>
 			<dict>
 				<key>items</key>
@@ -94,6 +107,7 @@ Blade language grammar is bases on https://github.com/Medalink/laravel-blade</st
 					<string>7DC3E991-0B40-40E4-A0AF-4DE2E27DD4EF</string>
 					<string>7BDA361A-CE8A-4BE4-BBC2-A221161D0C5D</string>
 					<string>D8886DE8-D08D-4E03-B7A7-9288952CAC1D</string>
+					<string>78019393-1A99-4567-B1B0-78BA486765D0</string>
 				</array>
 				<key>name</key>
 				<string>Route</string>

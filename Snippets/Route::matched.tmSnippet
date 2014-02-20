@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Route::matched(${1:function(${2:\$route}, ${3:\$resquest})
+{
+    $4
+\}});</string>
+	<key>name</key>
+	<string>Route::matched</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>r:m</string>
+	<key>uuid</key>
+	<string>78019393-1A99-4567-B1B0-78BA486765D0</string>
+</dict>
+</plist>

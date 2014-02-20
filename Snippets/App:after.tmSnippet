@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>App::after(${1:function(${2:\$request}, ${3:\$response})
+{
+    $4
+\}});</string>
+	<key>name</key>
+	<string>App:after</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>a:a</string>
+	<key>uuid</key>
+	<string>EDADD256-C40C-48E8-BC70-CB0A13B5EB84</string>
+</dict>
+</plist>
