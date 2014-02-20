@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>View::composer('$1', ${2:function()
+{
+    $3
+\}});</string>
+	<key>name</key>
+	<string>View::composer</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>v:co</string>
+	<key>uuid</key>
+	<string>A75C6A77-3336-4059-A6AC-2F7C9A98F262</string>
+</dict>
+</plist>

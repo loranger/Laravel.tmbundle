@@ -34,9 +34,26 @@ Blade language grammar is bases on https://github.com/Medalink/laravel-blade</st
 			<string>05BBDA5B-80A3-4A40-8B44-704C4D217001</string>
 			<string>3ED84500-826D-4734-AB5C-994925F5B5E2</string>
 			<string>D053AAAB-AC4B-463D-A0E9-68C37CB355BA</string>
+			<string>77A45FC9-8256-47E3-BB7D-6417B0D1F590</string>
 		</array>
 		<key>submenus</key>
 		<dict>
+			<key>77A45FC9-8256-47E3-BB7D-6417B0D1F590</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>1A07A380-5131-481F-A5C4-C1CFD4D8F79E</string>
+					<string>------------------------------------</string>
+					<string>9DBDA9C8-CC54-4039-A20F-8E4C46F9E505</string>
+					<string>BBB5ABED-92BD-4D43-8B14-40F579B40486</string>
+					<string>A75C6A77-3336-4059-A6AC-2F7C9A98F262</string>
+					<string>57B15FE4-965B-4683-ADFA-9AD595C9FC89</string>
+                    <string>------------------------------------</string>
+                    <string>E019FAEC-C75B-4A34-81FA-B07A966D1FA7</string>
+				</array>
+				<key>name</key>
+				<string>View</string>
+            </dict>
 			<key>3ED84500-826D-4734-AB5C-994925F5B5E2</key>
 			<dict>
 				<key>items</key>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>View::share('${1:name}', '${2:value}')$3;</string>
+	<key>name</key>
+	<string>View::share</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>v:s</string>
+	<key>uuid</key>
+	<string>BBB5ABED-92BD-4D43-8B14-40F579B40486</string>
+</dict>
+</plist>
