@@ -3,14 +3,17 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>return Response::view('${1:view}')$2;</string>
+	<string>return Response::macro('$1', ${2:function()
+{
+    $3
+\}});</string>
 	<key>name</key>
-	<string>Response::view</string>
+	<string>Response::macro</string>
 	<key>scope</key>
 	<string>source.php</string>
 	<key>tabTrigger</key>
-	<string>resp:v</string>
+	<string>resp:mc</string>
 	<key>uuid</key>
-	<string>B064669D-8F91-47A3-89A6-E3BCF50C637E</string>
+	<string>90815832-C0BF-46E7-BBA4-A2E58C709CED</string>
 </dict>
 </plist>

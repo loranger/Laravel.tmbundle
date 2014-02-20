@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>return Response::view('${1:view}')$2;</string>
+	<string>return Response::download(${1:\$filepath}${2:, ${3:\$name}}${4:, ${5:\$headers}})$6;</string>
 	<key>name</key>
-	<string>Response::view</string>
+	<string>Response::download</string>
 	<key>scope</key>
 	<string>source.php</string>
 	<key>tabTrigger</key>
-	<string>resp:v</string>
+	<string>resp:d</string>
 	<key>uuid</key>
-	<string>B064669D-8F91-47A3-89A6-E3BCF50C637E</string>
+	<string>241F3B23-BC6E-4CF8-8BBC-4B23C4FBF6BE</string>
 </dict>
 </plist>

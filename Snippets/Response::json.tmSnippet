@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>return Response::view('${1:view}')$2;</string>
+	<string>return Response::json(${1:\$array})${2:-&gt;setCallback(Input::get('callback'))};</string>
 	<key>name</key>
-	<string>Response::view</string>
+	<string>Response::json</string>
 	<key>scope</key>
 	<string>source.php</string>
 	<key>tabTrigger</key>
-	<string>resp:v</string>
+	<string>resp:j</string>
 	<key>uuid</key>
-	<string>B064669D-8F91-47A3-89A6-E3BCF50C637E</string>
+	<string>251AC95A-6D42-43DB-9C91-E39960D15079</string>
 </dict>
 </plist>
