@@ -3,17 +3,17 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>Route::${1|get,post,resource,any,matched,pattern,filter|}('$2', ${3:function()
+	<string>Route::filter('${1:name}', ${2:function(${3:\$route}, ${4:\$request}, ${5:\$response}, ${6:\$value})
 {
-    $4
+    $7
 \}});</string>
 	<key>name</key>
-	<string>Route</string>
+	<string>Route::filter</string>
 	<key>scope</key>
 	<string>source.php</string>
 	<key>tabTrigger</key>
-	<string>route</string>
+	<string>r:f</string>
 	<key>uuid</key>
-	<string>9CC01A4C-BDC3-482C-90D7-63D32BC3D05D</string>
+	<string>FCF779B3-B9F4-4C00-9986-08B4384E64EB</string>
 </dict>
 </plist>

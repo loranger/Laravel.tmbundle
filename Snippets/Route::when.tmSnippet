@@ -3,17 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>Route::${1|get,post,resource,any,matched,pattern,filter|}('$2', ${3:function()
-{
-    $4
-\}});</string>
+	<string>Route::when('${1:url/*}', '${2:name}');</string>
 	<key>name</key>
-	<string>Route</string>
+	<string>Route::when</string>
 	<key>scope</key>
-	<string>source.php</string>
+	<string>soure.php</string>
 	<key>tabTrigger</key>
-	<string>route</string>
+	<string>r:w</string>
 	<key>uuid</key>
-	<string>9CC01A4C-BDC3-482C-90D7-63D32BC3D05D</string>
+	<string>14DA72DB-A99D-4217-A3EF-87F68AB8447E</string>
 </dict>
 </plist>
