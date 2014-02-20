@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>Route::matched(${1:function(${2:\$route}, ${3:\$resquest})
+	<string>Route::matched(${1:function(${2:\$route}, ${3:\$request})
 {
     $4
 \}});</string>
