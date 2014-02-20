@@ -6,8 +6,7 @@
 	<string>Route::${1|get,post,any|}('$2', ${3:function()
 {
     $4
-\}});
-</string>
+\}});</string>
 	<key>name</key>
 	<string>Route</string>
 	<key>scope</key>

@@ -2,7 +2,6 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-
 	<key>source</key>
 	<dict>
 		<key>method</key>
@@ -32,10 +31,40 @@ Blade language grammar is bases on https://github.com/Medalink/laravel-blade</st
 		<array>
 			<string>6090DFA3-9588-43A5-8C0F-E076B244EBC3</string>
 			<string>------------------------------------</string>
-            <string>D053AAAB-AC4B-463D-A0E9-68C37CB355BA</string>
+			<string>05BBDA5B-80A3-4A40-8B44-704C4D217001</string>
+			<string>3ED84500-826D-4734-AB5C-994925F5B5E2</string>
+			<string>D053AAAB-AC4B-463D-A0E9-68C37CB355BA</string>
 		</array>
 		<key>submenus</key>
 		<dict>
+			<key>3ED84500-826D-4734-AB5C-994925F5B5E2</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>36D12BEF-BEB4-45EE-B201-85EEA2715DD2</string>
+					<string>------------------------------------</string>
+					<string>0505B785-502F-4945-AB67-24885C2757AF</string>
+					<string>AB63D739-3D1F-465B-88FD-060778E37651</string>
+					<string>B29BFBBE-2600-41B7-8713-EC5317C0BC2E</string>
+				</array>
+				<key>name</key>
+				<string>Redirect</string>
+			</dict>
+			<key>05BBDA5B-80A3-4A40-8B44-704C4D217001</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>3CE640C6-1327-4503-9EA4-7E7EAC4BAC5B</string>
+					<string>------------------------------------</string>
+					<string>ECAC0880-2CA7-459B-AD46-568A40D3427A</string>
+					<string>B064669D-8F91-47A3-89A6-E3BCF50C637E</string>
+					<string>------------------------------------</string>
+					<string>ECE92CB4-5530-4FA9-B9AC-019621C8264E</string>
+					<string>756DB6D4-AA47-4142-96C3-0BF584E49BE7</string>
+				</array>
+				<key>name</key>
+				<string>Response</string>
+			</dict>
 			<key>D053AAAB-AC4B-463D-A0E9-68C37CB355BA</key>
 			<dict>
 				<key>items</key>
@@ -51,15 +80,5 @@ Blade language grammar is bases on https://github.com/Medalink/laravel-blade</st
 			</dict>
 		</dict>
 	</dict>
-	<key>ordering</key>
-	<array>
-		<string>B35CFA4D-972C-462E-8118-E48C12AF6015</string>
-        <string>6090DFA3-9588-43A5-8C0F-E076B244EBC3</string>
-        <string>D053AAAB-AC4B-463D-A0E9-68C37CB355BA</string>
-		<string>9CC01A4C-BDC3-482C-90D7-63D32BC3D05D</string>
-		<string>7DC3E991-0B40-40E4-A0AF-4DE2E27DD4EF</string>
-		<string>7BDA361A-CE8A-4BE4-BBC2-A221161D0C5D</string>
-		<string>D8886DE8-D08D-4E03-B7A7-9288952CAC1D</string>
-	</array>
 </dict>
 </plist>

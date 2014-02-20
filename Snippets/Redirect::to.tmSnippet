@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>-&gt;with('${1:name}', ${2:'value'})</string>
+	<string>return Redirect::to('${1:url/}')$3;</string>
 	<key>name</key>
-	<string>-&gt;with</string>
+	<string>Redirect::to</string>
 	<key>scope</key>
 	<string>source.php</string>
 	<key>tabTrigger</key>
-	<string>with</string>
+	<string>redir:t</string>
 	<key>uuid</key>
-	<string>6090DFA3-9588-43A5-8C0F-E076B244EBC3</string>
+	<string>0505B785-502F-4945-AB67-24885C2757AF</string>
 </dict>
 </plist>

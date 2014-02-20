@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>-&gt;with('${1:name}', ${2:'value'})</string>
+	<string>return Response::make(${1:\$content}, ${2:\$status})$3;</string>
 	<key>name</key>
-	<string>-&gt;with</string>
+	<string>Response::make</string>
 	<key>scope</key>
 	<string>source.php</string>
 	<key>tabTrigger</key>
-	<string>with</string>
+	<string>resp:m</string>
 	<key>uuid</key>
-	<string>6090DFA3-9588-43A5-8C0F-E076B244EBC3</string>
+	<string>ECAC0880-2CA7-459B-AD46-568A40D3427A</string>
 </dict>
 </plist>

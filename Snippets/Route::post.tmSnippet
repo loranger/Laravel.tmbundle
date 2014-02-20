@@ -6,8 +6,7 @@
 	<string>Route::post('$1', ${2:function()
 {
     $3
-\}});
-</string>
+\}});</string>
 	<key>name</key>
 	<string>Route::post</string>
 	<key>scope</key>

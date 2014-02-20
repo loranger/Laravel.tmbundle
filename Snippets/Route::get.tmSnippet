@@ -6,8 +6,7 @@
 	<string>Route::get('$1', ${2:function()
 {
     $3
-\}});
-</string>
+\}});</string>
 	<key>name</key>
 	<string>Route::get</string>
 	<key>scope</key>
