@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Route::get('$1', ${2:function()
+{
+    $3
+\}});
+</string>
+	<key>name</key>
+	<string>Route::get</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>r:g</string>
+	<key>uuid</key>
+	<string>7DC3E991-0B40-40E4-A0AF-4DE2E27DD4EF</string>
+</dict>
+</plist>

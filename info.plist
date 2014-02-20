@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+
+	<key>source</key>
+	<dict>
+		<key>method</key>
+		<string>git</string>
+		<key>url</key>
+		<string>git://github.com/loranger/laravel.tmbundle</string>
+	</dict>
+	<key>contactEmailRot13</key>
+	<string>ynheragt@tznvy.pbz</string>
+	<key>contactName</key>
+	<string>Laurent Goussard</string>
+	<key>name</key>
+	<string>PHP Laravel</string>
+	<key>uuid</key>
+	<string>BFD74D71-3606-4C19-A1B7-0A340875D65C</string>
+	<key>description</key>
+	<string>Laravel 4 Bundle
+
+Blade language grammar is bases on https://github.com/Medalink/laravel-blade</string>
+	<key>mainMenu</key>
+	<dict>
+		<key>excludedItems</key>
+		<array>
+			<string>B35CFA4D-972C-462E-8118-E48C12AF6015</string>
+		</array>
+		<key>items</key>
+		<array>
+			<string>6090DFA3-9588-43A5-8C0F-E076B244EBC3</string>
+			<string>------------------------------------</string>
+            <string>D053AAAB-AC4B-463D-A0E9-68C37CB355BA</string>
+		</array>
+		<key>submenus</key>
+		<dict>
+			<key>D053AAAB-AC4B-463D-A0E9-68C37CB355BA</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>9CC01A4C-BDC3-482C-90D7-63D32BC3D05D</string>
+					<string>------------------------------------</string>
+					<string>7DC3E991-0B40-40E4-A0AF-4DE2E27DD4EF</string>
+					<string>7BDA361A-CE8A-4BE4-BBC2-A221161D0C5D</string>
+					<string>D8886DE8-D08D-4E03-B7A7-9288952CAC1D</string>
+				</array>
+				<key>name</key>
+				<string>Route</string>
+			</dict>
+		</dict>
+	</dict>
+	<key>ordering</key>
+	<array>
+		<string>B35CFA4D-972C-462E-8118-E48C12AF6015</string>
+        <string>6090DFA3-9588-43A5-8C0F-E076B244EBC3</string>
+        <string>D053AAAB-AC4B-463D-A0E9-68C37CB355BA</string>
+		<string>9CC01A4C-BDC3-482C-90D7-63D32BC3D05D</string>
+		<string>7DC3E991-0B40-40E4-A0AF-4DE2E27DD4EF</string>
+		<string>7BDA361A-CE8A-4BE4-BBC2-A221161D0C5D</string>
+		<string>D8886DE8-D08D-4E03-B7A7-9288952CAC1D</string>
+	</array>
+</dict>
+</plist>

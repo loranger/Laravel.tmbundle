@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beforeRunningCommand</key>
+	<string>nop</string>
+	<key>command</key>
+	<string>#!/usr/bin/env php
+&lt;?php
+
+$name = '$1';
+$content = '$2';
+if ( array_key_exists('TM_FILEPATH', $_ENV) ) {
+    $name = basename($_ENV['TM_FILEPATH'], '.php');
+    $content = '$1';
+}
+echo &lt;&lt;&lt;OUTPUT
+&lt;?php
+
+class $name extends Eloquent {
+    $content
+}
+OUTPUT;
+?&gt;</string>
+	<key>input</key>
+	<string>selection</string>
+	<key>inputFormat</key>
+	<string>text</string>
+	<key>name</key>
+	<string>Model</string>
+	<key>outputCaret</key>
+	<string>afterOutput</string>
+	<key>outputFormat</key>
+	<string>snippet</string>
+	<key>outputLocation</key>
+	<string>replaceInput</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>model</string>
+	<key>uuid</key>
+	<string>B35CFA4D-972C-462E-8118-E48C12AF6015</string>
+	<key>version</key>
+	<integer>2</integer>
+</dict>
+</plist>
