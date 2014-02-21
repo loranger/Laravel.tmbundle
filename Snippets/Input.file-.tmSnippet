@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>Input::flashOnly(${1:'${2:name}'}${3:, '${4:name}'});$5</string>
+	<string>Input::file(${1:'${2:name}'})-&gt;${3|getRealPath,getClientOriginalName,getClientOriginalExtension,getSize,getMimeType|}();$4</string>
 	<key>name</key>
-	<string>Input::flashOnly</string>
+	<string>Input::file-&gt;</string>
 	<key>scope</key>
 	<string>source.php</string>
 	<key>tabTrigger</key>
-	<string>i:fl</string>
+	<string>i:f-</string>
 	<key>uuid</key>
-	<string>14596111-7711-4585-A330-AAF840F3C421</string>
+	<string>45F038CC-C7AD-41A8-81C9-45C2894E4CA4</string>
 </dict>
 </plist>
