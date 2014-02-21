@@ -30,6 +30,7 @@ Blade language grammar is bases on https://github.com/Medalink/laravel-blade</st
 		<key>items</key>
 		<array>
 			<string>CDD61A5F-4582-4E02-A873-F5712BE15740</string>
+			<string>152C0573-7131-4806-98A0-467E1285A3AC</string>
 			<string>E7B03F5A-6B36-4D8F-B5AE-CD78BE91A149</string>
 			<string>3ED84500-826D-4734-AB5C-994925F5B5E2</string>
 			<string>05BBDA5B-80A3-4A40-8B44-704C4D217001</string>
@@ -130,6 +131,18 @@ Blade language grammar is bases on https://github.com/Medalink/laravel-blade</st
                 </array>
                 <key>name</key>
                 <string>Input</string>
+            </dict>
+            <key>152C0573-7131-4806-98A0-467E1285A3AC</key>
+            <dict>
+                <key>items</key>
+                <array>
+                    <string>03A6030F-68B9-4DF0-86D4-8A65F8B45A3A</string>
+                    <string>EC0E8BB9-71A9-410E-B48A-6CCE4EEE9875</string>
+                    <string>4C4078D1-C8A7-4FB8-88B9-01493A3E4A25</string>
+                    <string>5397D479-766E-4F44-B97C-EED0F2C6DEA7</string>
+                </array>
+                <key>name</key>
+                <string>Cookie</string>
             </dict>
             <key>85011916-5C94-4FAB-A700-1A324689571B</key>
             <dict>
