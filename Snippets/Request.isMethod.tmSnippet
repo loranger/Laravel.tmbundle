@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Request::isMethod('${1|get,head,post,options,connect,trace,put,patch,delete|}')${2:;}</string>
+	<key>name</key>
+	<string>Request::isMethod</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>r:im</string>
+	<key>uuid</key>
+	<string>16632F1A-B614-4813-9169-2BDD8BC10D69</string>
+</dict>
+</plist>

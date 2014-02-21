@@ -33,6 +33,7 @@ Blade language grammar is bases on https://github.com/Medalink/laravel-blade</st
 			<string>152C0573-7131-4806-98A0-467E1285A3AC</string>
 			<string>E7B03F5A-6B36-4D8F-B5AE-CD78BE91A149</string>
 			<string>3ED84500-826D-4734-AB5C-994925F5B5E2</string>
+			<string>D60DD2AB-C243-4B12-8FBA-B761D875245F</string>
 			<string>05BBDA5B-80A3-4A40-8B44-704C4D217001</string>
 			<string>D053AAAB-AC4B-463D-A0E9-68C37CB355BA</string>
 			<string>85011916-5C94-4FAB-A700-1A324689571B</string>
@@ -119,6 +120,27 @@ Blade language grammar is bases on https://github.com/Medalink/laravel-blade</st
                 <key>name</key>
                 <string>Redirect</string>
             </dict>
+            <key>D60DD2AB-C243-4B12-8FBA-B761D875245F</key>
+            <dict>
+                <key>items</key>
+                <array>
+                    <string>BF149DD1-8B69-4A60-9E24-1E742E4BBF32</string>
+                    <string>8917AF4B-A954-4AD6-A523-B241B1386FF3</string>
+                    <string>16632F1A-B614-4813-9169-2BDD8BC10D69</string>
+                    <string>7839863E-4996-4D10-99E9-58A85BAD96D3</string>
+                    <string>664488A8-D610-4B49-8C58-3692D599C05D</string>
+                    <string>D8EA58A7-1E22-4A26-BB0A-A24014909521</string>
+                    <string>27BB1B59-A1BF-4F5B-8BC7-BA7EAEDA70A1</string>
+                    <string>8268E7A2-9DBB-4A42-818F-B3386A55E6D0</string>
+                    <string>F4A2A1E1-227A-4BF1-A3B5-4A294EB4ECA4</string>
+                    <string>236A83C0-2B3E-4753-883D-4AAFFBDB985B</string>
+                    <string>E10E53DB-620C-4A96-B7F2-8D4F8A667651</string>
+                    <string>559E6D3C-176C-4BA3-9C43-8D92FFFC2229</string>
+                    <string>2F7F090A-116C-4F13-B577-F43E53054CA3</string>
+                </array>
+                <key>name</key>
+                <string>Request</string>
+            </dict>
             <key>E7B03F5A-6B36-4D8F-B5AE-CD78BE91A149</key>
             <dict>
                 <key>items</key>
@@ -135,6 +157,10 @@ Blade language grammar is bases on https://github.com/Medalink/laravel-blade</st
                     <string>14596111-7711-4585-A330-AAF840F3C421</string>
                     <string>B5960C50-F748-42EF-92B2-6D72EC2A4DFC</string>
                     <string>7647AC97-4466-444B-953E-D7336E5A17C7</string>
+                    <string>------------------------------------</string>
+                    <string>D2D93944-7241-4D6A-B97B-9B4181CD0893</string>
+                    <string>3B0556B4-1D0A-48C1-9ABD-5D3E06DAA94C</string>
+                    <string>45F038CC-C7AD-41A8-81C9-45C2894E4CA4</string>
                 </array>
                 <key>name</key>
                 <string>Input</string>

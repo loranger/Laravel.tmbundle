@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Request::server('${1:PATH_INFO}')${2:;}</string>
+	<key>name</key>
+	<string>Request::server</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>r:s</string>
+	<key>uuid</key>
+	<string>8268E7A2-9DBB-4A42-818F-B3386A55E6D0</string>
+</dict>
+</plist>

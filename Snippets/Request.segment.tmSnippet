@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Request::segment('${1:1}')${2:;}</string>
+	<key>name</key>
+	<string>Request::segment</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>r:s</string>
+	<key>uuid</key>
+	<string>D8EA58A7-1E22-4A26-BB0A-A24014909521</string>
+</dict>
+</plist>
