@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>return Response::caps('${1:name}');</string>
+	<key>name</key>
+	<string>Response::$macro</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>resp:mc</string>
+	<key>uuid</key>
+	<string>F7A2CEDB-3659-498F-80A2-2AC581DE2A11</string>
+</dict>
+</plist>
