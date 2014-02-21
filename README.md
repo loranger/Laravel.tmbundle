@@ -1,5 +1,7 @@
 # Textmate bundle for Laravel 4
 
+Snippets and Blade syntax for Laravel 4
+
 ## Installing
 
 	cd ~/Library/Application\ Support/Avian/Bundles/
