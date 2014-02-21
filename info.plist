@@ -30,6 +30,7 @@ Blade language grammar is bases on https://github.com/Medalink/laravel-blade</st
 		<key>items</key>
 		<array>
 			<string>CDD61A5F-4582-4E02-A873-F5712BE15740</string>
+			<string>E7B03F5A-6B36-4D8F-B5AE-CD78BE91A149</string>
 			<string>3ED84500-826D-4734-AB5C-994925F5B5E2</string>
 			<string>05BBDA5B-80A3-4A40-8B44-704C4D217001</string>
 			<string>D053AAAB-AC4B-463D-A0E9-68C37CB355BA</string>
@@ -114,6 +115,21 @@ Blade language grammar is bases on https://github.com/Medalink/laravel-blade</st
                 </array>
                 <key>name</key>
                 <string>Redirect</string>
+            </dict>
+            <key>E7B03F5A-6B36-4D8F-B5AE-CD78BE91A149</key>
+            <dict>
+                <key>items</key>
+                <array>
+                    <string>0B35D7A3-13B6-4BA7-B25B-6D6E38F96FBE</string>
+                    <string>------------------------------------</string>
+                    <string>0A9CF64A-1401-4DE9-A75B-8883E91AF53A</string>
+                    <string>71A1D39F-9844-44B9-8B1D-97CE3AB9741E</string>
+                    <string>C6CACA94-8BA9-4B5F-A452-33F015D41E57</string>
+                    <string>D441AAA7-B1B8-44BB-A8F8-EBB119029D56</string>
+                    <string>146BA5CA-F4C9-4F7B-B601-C12399F78FF0</string>
+                </array>
+                <key>name</key>
+                <string>Input</string>
             </dict>
             <key>85011916-5C94-4FAB-A700-1A324689571B</key>
             <dict>

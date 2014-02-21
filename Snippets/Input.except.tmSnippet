@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Input::except(${1:'${2:name}'}${3:, '${4:name}'});$5</string>
+	<key>name</key>
+	<string>Input::except</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>i:e</string>
+	<key>uuid</key>
+	<string>146BA5CA-F4C9-4F7B-B601-C12399F78FF0</string>
+</dict>
+</plist>
