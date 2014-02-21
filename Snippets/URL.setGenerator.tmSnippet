@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>URL::setGenerator(${1:\$generator})${2:;}</string>
+	<key>name</key>
+	<string>URL::setGenerator</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>u:sg</string>
+	<key>uuid</key>
+	<string>A5C90A2E-86B9-4D28-A7D7-9E3757DCC1C4</string>
+</dict>
+</plist>

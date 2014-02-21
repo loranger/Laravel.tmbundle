@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>-&gt;with('${1:name}', ${2:'value'})</string>
+	<string>URL::secure(${1:'${2:foo/bar}'}${3:, ${4:\$parameters}})${5:;}</string>
 	<key>name</key>
-	<string>-&gt;with</string>
+	<string>URL::secure</string>
 	<key>scope</key>
 	<string>source.php</string>
 	<key>tabTrigger</key>
-	<string>with</string>
+	<string>u:s</string>
 	<key>uuid</key>
-	<string>6090DFA3-9588-43A5-8C0F-E076B244EBC3</string>
+	<string>D1262041-E331-4CB7-9958-7E957502AF4A</string>
 </dict>
 </plist>
