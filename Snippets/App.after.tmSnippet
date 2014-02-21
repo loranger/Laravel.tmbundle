@@ -8,7 +8,7 @@
     $4
 \}});</string>
 	<key>name</key>
-	<string>App:after</string>
+	<string>App::after</string>
 	<key>scope</key>
 	<string>source.php</string>
 	<key>tabTrigger</key>
