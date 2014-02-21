@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>link_to_action('${1:Controller}'${2:, ${3:\$title}}${4:, ${5:\$parameters}}${6:, ${7:\$attributes}})</string>
+	<key>name</key>
+	<string>link_to_action</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>link:action</string>
+	<key>uuid</key>
+	<string>59090AA7-05DD-429B-BB0F-7D9014741208</string>
+</dict>
+</plist>

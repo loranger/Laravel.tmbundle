@@ -32,13 +32,46 @@ Blade language grammar is bases on https://github.com/Medalink/laravel-blade</st
 			<string>6090DFA3-9588-43A5-8C0F-E076B244EBC3</string>
 			<string>------------------------------------</string>
 			<string>CDD61A5F-4582-4E02-A873-F5712BE15740</string>
-			<string>05BBDA5B-80A3-4A40-8B44-704C4D217001</string>
 			<string>3ED84500-826D-4734-AB5C-994925F5B5E2</string>
+			<string>05BBDA5B-80A3-4A40-8B44-704C4D217001</string>
 			<string>D053AAAB-AC4B-463D-A0E9-68C37CB355BA</string>
+			<string>85011916-5C94-4FAB-A700-1A324689571B</string>
 			<string>77A45FC9-8256-47E3-BB7D-6417B0D1F590</string>
+			<string>------------------------------------</string>
+			<string>043B225A-AD20-4E40-89A0-6AD09E9B29A2</string>
+            <string>------------------------------------</string>
+			<string>E916DC16-CE82-4807-B1ED-5A4013AB3183</string>
+			<string>BCAAC332-7BC1-466D-9763-841D1B52E2E0</string>
 		</array>
 		<key>submenus</key>
 		<dict>
+			<key>043B225A-AD20-4E40-89A0-6AD09E9B29A2</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>389275C0-6039-4EF7-BEFD-393323CBB00F</string>
+				</array>
+				<key>name</key>
+				<string>Helpers</string>
+			</dict>
+			<key>389275C0-6039-4EF7-BEFD-393323CBB00F</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>B44BEE4E-8C12-456D-9E38-8D8D08AB1200</string>
+					<string>5D62B062-7106-4AC6-94E8-43A5A03E17C8</string>
+					<string>36474677-06AD-44BA-A70B-522B95EDD786</string>
+					<string>3EEC519F-7158-4601-9704-55BB85DE974D</string>
+					<string>DF3FBAFE-7B6F-437B-A426-20C42DCD8B7B</string>
+					<string>C655A8D6-9352-4985-ADC5-9E1252B3DEBD</string>
+					<string>59090AA7-05DD-429B-BB0F-7D9014741208</string>
+					<string>14CFCD1E-2AD3-468C-A5A9-7EF41DE3537F</string>
+					<string>76FEB6C7-0155-419E-979E-0FA25660CF37</string>
+					<string>9D12ADB1-65F6-4767-9725-7C1DD14893E3</string>
+				</array>
+				<key>name</key>
+				<string>URLs</string>
+			</dict>
 			<key>CDD61A5F-4582-4E02-A873-F5712BE15740</key>
 			<dict>
 				<key>items</key>
@@ -67,19 +100,29 @@ Blade language grammar is bases on https://github.com/Medalink/laravel-blade</st
 				<key>name</key>
 				<string>View</string>
 			</dict>
-			<key>3ED84500-826D-4734-AB5C-994925F5B5E2</key>
-			<dict>
-				<key>items</key>
-				<array>
-					<string>36D12BEF-BEB4-45EE-B201-85EEA2715DD2</string>
-					<string>------------------------------------</string>
-					<string>0505B785-502F-4945-AB67-24885C2757AF</string>
-					<string>AB63D739-3D1F-465B-88FD-060778E37651</string>
-					<string>B29BFBBE-2600-41B7-8713-EC5317C0BC2E</string>
-				</array>
-				<key>name</key>
-				<string>Redirect</string>
-			</dict>
+            <key>3ED84500-826D-4734-AB5C-994925F5B5E2</key>
+            <dict>
+                <key>items</key>
+                <array>
+                    <string>36D12BEF-BEB4-45EE-B201-85EEA2715DD2</string>
+                    <string>------------------------------------</string>
+                    <string>0505B785-502F-4945-AB67-24885C2757AF</string>
+                    <string>AB63D739-3D1F-465B-88FD-060778E37651</string>
+                    <string>B29BFBBE-2600-41B7-8713-EC5317C0BC2E</string>
+                </array>
+                <key>name</key>
+                <string>Redirect</string>
+            </dict>
+            <key>85011916-5C94-4FAB-A700-1A324689571B</key>
+            <dict>
+                <key>items</key>
+                <array>
+                    <string>XXX</string>
+                    <string>------------------------------------</string>
+                </array>
+                <key>name</key>
+                <string>URL</string>
+            </dict>
 			<key>05BBDA5B-80A3-4A40-8B44-704C4D217001</key>
 			<dict>
 				<key>items</key>

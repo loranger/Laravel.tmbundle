@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>secure_asset('${1:foo/bar.zip}'${2:, ${3:\$title}}${4:, ${5:\$attributes}})</string>
+	<key>name</key>
+	<string>secure_asset</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>secure:a</string>
+	<key>uuid</key>
+	<string>14CFCD1E-2AD3-468C-A5A9-7EF41DE3537F</string>
+</dict>
+</plist>
