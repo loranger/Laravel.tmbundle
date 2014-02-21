@@ -113,6 +113,8 @@ Blade language grammar is bases on https://github.com/Medalink/laravel-blade</st
                     <string>0505B785-502F-4945-AB67-24885C2757AF</string>
                     <string>AB63D739-3D1F-465B-88FD-060778E37651</string>
                     <string>B29BFBBE-2600-41B7-8713-EC5317C0BC2E</string>
+                    <string>------------------------------------</string>
+                    <string>F612E815-95D7-4824-9B2C-F441BA99430B</string>
                 </array>
                 <key>name</key>
                 <string>Redirect</string>
@@ -128,6 +130,10 @@ Blade language grammar is bases on https://github.com/Medalink/laravel-blade</st
                     <string>C6CACA94-8BA9-4B5F-A452-33F015D41E57</string>
                     <string>D441AAA7-B1B8-44BB-A8F8-EBB119029D56</string>
                     <string>146BA5CA-F4C9-4F7B-B601-C12399F78FF0</string>
+                    <string>------------------------------------</string>
+                    <string>F52B2694-3A17-4812-95BF-E775D65D3806</string>
+                    <string>14596111-7711-4585-A330-AAF840F3C421</string>
+                    <string>B5960C50-F748-42EF-92B2-6D72EC2A4DFC</string>
                 </array>
                 <key>name</key>
                 <string>Input</string>
