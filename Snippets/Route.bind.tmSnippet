@@ -3,14 +3,17 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>Route::when('${1:url/*}', '${2:name}')$3</string>
+	<string>Route::bind('$1', ${2:function(\$value, \$route)
+{
+    $3
+\}});</string>
 	<key>name</key>
-	<string>Route::when</string>
+	<string>Route::bind</string>
 	<key>scope</key>
-	<string>soure.php</string>
+	<string>source.php</string>
 	<key>tabTrigger</key>
-	<string>r:w</string>
+	<string>r:b</string>
 	<key>uuid</key>
-	<string>14DA72DB-A99D-4217-A3EF-87F68AB8447E</string>
+	<string>972973A1-FC63-4D60-8007-05477E76E859</string>
 </dict>
 </plist>
