@@ -1,6 +1,7 @@
 # Textmate bundle for Laravel 4
 
-Snippets and Blade syntax for Laravel 4
+* Laravel 4 snippets
+* Blade syntax
 
 ## Installing
 
