@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>command</key>
+	<string>#!/usr/bin/env BASH
+
+if [[ -d $TM_PROJECT_DIRECTORY ]]; then
+    cd "$TM_PROJECT_DIRECTORY";
+    if [[ -f 'artisan' ]]; then
+        php ./artisan up
+    else
+        echo "Artisan not found in $(pwd)"
+    fi
+fi</string>
+	<key>name</key>
+	<string>up</string>
+	<key>outputLocation</key>
+	<string>toolTip</string>
+	<key>uuid</key>
+	<string>54F4119C-5849-4FFB-9CF5-B620380AAEE3</string>
+</dict>
+</plist>
