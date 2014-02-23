@@ -2,6 +2,8 @@
 
 * Laravel 4 snippets
 * Blade syntax
+* Artisan commands
+* Helpers snippets
 
 ## Installing
 
