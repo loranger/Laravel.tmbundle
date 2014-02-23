@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>@extends('$1')</string>
+	<key>name</key>
+	<string>extends</string>
+	<key>scope</key>
+	<string>text.html.laravel-blade</string>
+	<key>tabTrigger</key>
+	<string>extends</string>
+	<key>uuid</key>
+	<string>0A783DBC-41F1-452E-92A5-2DAA1427525B</string>
+</dict>
+</plist>

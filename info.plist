@@ -41,6 +41,7 @@ Blade language grammar is bases on https://github.com/Medalink/laravel-blade</st
 			<string>77A45FC9-8256-47E3-BB7D-6417B0D1F590</string>
 			<string>------------------------------------</string>
 			<string>0B96CC2E-1850-45F9-8585-37318AE3707D</string>
+			<string>10220ABB-02D3-4FDB-B10F-49BF94E7D9AD</string>
 			<string>ECF8E75D-1E08-492B-960F-AAA3BE364E92</string>
 			<string>043B225A-AD20-4E40-89A0-6AD09E9B29A2</string>
 			<string>B35CFA4D-972C-462E-8118-E48C12AF6015</string>
@@ -358,6 +359,35 @@ Blade language grammar is bases on https://github.com/Medalink/laravel-blade</st
                 </array>
                 <key>name</key>
                 <string>Artisan</string>
+            </dict>
+            <key>10220ABB-02D3-4FDB-B10F-49BF94E7D9AD</key>
+            <dict>
+                <key>items</key>
+                <array>
+                    <string>0A783DBC-41F1-452E-92A5-2DAA1427525B</string>
+                    <string>3562CB09-3E47-4A1B-9FA5-2271B7314A7F</string>
+                    <string>9F016FA1-CC17-489E-B295-1563B8CB4024</string>
+                    <string>2DD35BDF-FC63-4D12-AE2D-AF43993B3C75</string>
+                    <string>D333ADCF-82E4-4C4E-B873-6F8058F4D4F1</string>
+                    <string>------------------------------------</string>
+                    <string>F229BBD6-7443-40BD-8890-AC5D0A58961E</string>
+                    <string>14AA625F-C11F-4354-A762-E3E6A3862226</string>
+                    <string>C6C36B1F-B67F-4EBE-B8BC-356A9C739A10</string>
+                    <string>8809DBA8-6DE6-43C6-B8B0-A89E0F63F528</string>
+                    <string>------------------------------------</string>
+                    <string>BB75B38E-0FBE-4944-8279-447B46BE8DDB</string>
+                    <string>DFFEEDC9-66A4-4A9E-A238-1B7A465256CF</string>
+                    <string>FCEBCEF7-C4D3-401F-8325-344B0AB2022E</string>
+                    <string>------------------------------------</string>
+                    <string>74EC1A00-D9A3-4000-9829-31BC5F8E046A</string>
+                    <string>E790CF89-8E18-4877-94AF-7ACECCA79E93</string>
+                    <string>------------------------------------</string>
+                    <string>CDD98C6B-813A-4E0B-ADD9-A660D1C0D54F</string>
+                    <string>CF33D270-84F8-4B43-8DDD-C632DA771191</string>
+                    <string>E483AC39-2367-4BD2-8FC4-2BAC445E169A</string>
+                </array>
+                <key>name</key>
+                <string>Blade</string>
             </dict>
 		</dict>
 	</dict>

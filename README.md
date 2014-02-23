@@ -4,6 +4,7 @@
 * Blade language grammar
 * Artisan commands
 * Helpers snippets
+* Blade snippets
 
 ## Installing
 

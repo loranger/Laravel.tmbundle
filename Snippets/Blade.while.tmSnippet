@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>@while($1)
+    $2
+@endwhile</string>
+	<key>name</key>
+	<string>while</string>
+	<key>scope</key>
+	<string>text.html.laravel-blade</string>
+	<key>tabTrigger</key>
+	<string>while</string>
+	<key>uuid</key>
+	<string>FCEBCEF7-C4D3-401F-8325-344B0AB2022E</string>
+</dict>
+</plist>

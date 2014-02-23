@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>Folding</string>
+	<key>scope</key>
+	<string>text.html.laravel-blade</string>
+	<key>settings</key>
+	<dict>
+		<key>foldingStartMarker</key>
+		<string>(\s{0}|^)(\@)\b(if|elseif|foreach|for|while|unless|each|section)\b(?=(|\s*|)\()</string>
+		<key>foldingStopMarker</key>
+		<string>(\s{0}|^)(\@)\b(endif|endforeach|endfor|endwhile|endunless|show|stop|endsection|overwrite)\b</string>
+	</dict>
+	<key>uuid</key>
+	<string>61A61353-AE17-41C1-B005-0DD1B03CDCA9</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>@yield('${1:section}'${2:, ${3:'${4:default}'}})</string>
+	<key>name</key>
+	<string>yield</string>
+	<key>scope</key>
+	<string>text.html.laravel-blade</string>
+	<key>tabTrigger</key>
+	<string>yield</string>
+	<key>uuid</key>
+	<string>2DD35BDF-FC63-4D12-AE2D-AF43993B3C75</string>
+</dict>
+</plist>
