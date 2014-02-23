@@ -3,14 +3,17 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>App::abort(${1:404}${2:, '${3:message}'});</string>
+	<string>App::missing(${1:function(${2:\$exception})
+{
+    $3
+\}});</string>
 	<key>name</key>
-	<string>App::abort</string>
+	<string>App::missing</string>
 	<key>scope</key>
 	<string>source.php</string>
 	<key>tabTrigger</key>
-	<string>abort</string>
+	<string>a:m</string>
 	<key>uuid</key>
-	<string>05973C6D-3905-48CF-83F6-FD9FC7079E6A</string>
+	<string>FACAB44F-1B4F-4669-A039-EE3F939E768C</string>
 </dict>
 </plist>

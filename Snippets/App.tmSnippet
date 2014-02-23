@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>App::${1|before,after|}('$2', ${3:function(${4:\$request})
+	<string>App::${1|before,after,abort,missing,error,fatal|}('$2', ${3:function(${4:\$request})
 {
     $5
 \}});</string>
