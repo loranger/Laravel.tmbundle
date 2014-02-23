@@ -6,6 +6,8 @@
 * Helpers snippets
 * Blade snippets
 
+![Preview](screenshot.png "Menu preview")
+
 ## Installing
 
 	cd ~/Library/Application\ Support/Avian/Bundles/
