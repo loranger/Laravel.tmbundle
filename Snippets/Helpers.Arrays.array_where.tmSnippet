@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>array_where(${1:\$array}, ${2:function(${3:\$key}, ${4:\$value})
+{
+    return $5;
+\}});$6</string>
+	<key>name</key>
+	<string>array_where</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>arr:w</string>
+	<key>uuid</key>
+	<string>AFF7ED66-17F6-4AA9-9287-213FA4E37CFD</string>
+</dict>
+</plist>

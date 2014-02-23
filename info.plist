@@ -54,6 +54,7 @@ Blade language grammar is bases on https://github.com/Medalink/laravel-blade</st
             <dict>
                 <key>items</key>
                 <array>
+                    <string>6238F445-72D9-4A2A-8EE5-BE9EA39768B7</string>
                     <string>389275C0-6039-4EF7-BEFD-393323CBB00F</string>
                     <string>------------------------------------</string>
                     <string>6090DFA3-9588-43A5-8C0F-E076B244EBC3</string>
@@ -62,24 +63,50 @@ Blade language grammar is bases on https://github.com/Medalink/laravel-blade</st
                 <key>name</key>
                 <string>Helpers</string>
             </dict>
-			<key>389275C0-6039-4EF7-BEFD-393323CBB00F</key>
-			<dict>
-				<key>items</key>
-				<array>
-					<string>B44BEE4E-8C12-456D-9E38-8D8D08AB1200</string>
-					<string>5D62B062-7106-4AC6-94E8-43A5A03E17C8</string>
-					<string>36474677-06AD-44BA-A70B-522B95EDD786</string>
-					<string>3EEC519F-7158-4601-9704-55BB85DE974D</string>
-					<string>DF3FBAFE-7B6F-437B-A426-20C42DCD8B7B</string>
-					<string>C655A8D6-9352-4985-ADC5-9E1252B3DEBD</string>
-					<string>59090AA7-05DD-429B-BB0F-7D9014741208</string>
-					<string>14CFCD1E-2AD3-468C-A5A9-7EF41DE3537F</string>
-					<string>76FEB6C7-0155-419E-979E-0FA25660CF37</string>
-					<string>9D12ADB1-65F6-4767-9725-7C1DD14893E3</string>
-				</array>
-				<key>name</key>
-				<string>URLs</string>
-			</dict>
+            <key>6238F445-72D9-4A2A-8EE5-BE9EA39768B7</key>
+            <dict>
+                <key>items</key>
+                <array>
+                    <string>602899F8-FD0A-4041-B9F8-9D52ADC5618F</string>
+                    <string>716D8567-F0CD-4D5C-AFFE-A08CF707DC8E</string>
+                    <string>A9AC6B28-E882-4B0C-B771-338CB4904C72</string>
+                    <string>F9BA8F19-4624-4EE4-B31B-D02662F5FA33</string>
+                    <string>6968C076-C6B0-4916-96B2-F2CE9D246885</string>
+                    <string>55C8B7DF-2E81-4588-A002-DFB683D353F6</string>
+                    <string>79F0E8B5-8323-40CA-967F-D7611D472075</string>
+                    <string>0063EF5F-0EF5-4CA1-A3B9-442268B80D57</string>
+                    <string>0BFD93FC-1E8B-496D-8011-EFF0F9420EBC</string>
+                    <string>67477F55-4361-4515-9370-7C9EF521C384</string>
+                    <string>D0D93D61-488C-49F4-9F53-0C9A62CEAFC2</string>
+                    <string>F19BD374-9714-4EE3-94D1-294BD77CF078</string>
+                    <string>4696D67D-3233-462E-B4F8-3B42ADBBFC25</string>
+                    <string>ABAC341F-CE4D-4F56-9ADE-3C0A4C64013C</string>
+                    <string>F93DE80B-B003-4C59-90AE-6F5276F66FD8</string>
+                    <string>AFF7ED66-17F6-4AA9-9287-213FA4E37CFD</string>
+                    <string>145D3194-E0CD-4FCC-BFE3-88BC94AC4CB8</string>
+                    <string>9E4AF72A-6EB4-4686-9D66-1491B4F72F1D</string>
+                </array>
+                <key>name</key>
+                <string>Arrays</string>
+            </dict>
+            <key>389275C0-6039-4EF7-BEFD-393323CBB00F</key>
+            <dict>
+                <key>items</key>
+                <array>
+                    <string>B44BEE4E-8C12-456D-9E38-8D8D08AB1200</string>
+                    <string>5D62B062-7106-4AC6-94E8-43A5A03E17C8</string>
+                    <string>36474677-06AD-44BA-A70B-522B95EDD786</string>
+                    <string>3EEC519F-7158-4601-9704-55BB85DE974D</string>
+                    <string>DF3FBAFE-7B6F-437B-A426-20C42DCD8B7B</string>
+                    <string>C655A8D6-9352-4985-ADC5-9E1252B3DEBD</string>
+                    <string>59090AA7-05DD-429B-BB0F-7D9014741208</string>
+                    <string>14CFCD1E-2AD3-468C-A5A9-7EF41DE3537F</string>
+                    <string>76FEB6C7-0155-419E-979E-0FA25660CF37</string>
+                    <string>9D12ADB1-65F6-4767-9725-7C1DD14893E3</string>
+                </array>
+                <key>name</key>
+                <string>URLs</string>
+            </dict>
 			<key>CDD61A5F-4582-4E02-A873-F5712BE15740</key>
 			<dict>
 				<key>items</key>
