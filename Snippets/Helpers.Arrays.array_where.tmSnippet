@@ -12,7 +12,7 @@
 	<key>scope</key>
 	<string>source.php</string>
 	<key>tabTrigger</key>
-	<string>arr:w</string>
+	<string>arwh</string>
 	<key>uuid</key>
 	<string>AFF7ED66-17F6-4AA9-9287-213FA4E37CFD</string>
 </dict>

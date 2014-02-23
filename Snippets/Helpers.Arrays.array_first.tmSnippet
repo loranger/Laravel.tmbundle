@@ -9,7 +9,7 @@
 	<key>scope</key>
 	<string>source.php</string>
 	<key>tabTrigger</key>
-	<string>arr:f</string>
+	<string>arfi</string>
 	<key>uuid</key>
 	<string>55C8B7DF-2E81-4588-A002-DFB683D353F6</string>
 </dict>
