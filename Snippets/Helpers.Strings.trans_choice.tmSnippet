@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>trans_choice(${1:'${2:foo_bar}'}, ${3:\$count});$4</string>
+	<key>name</key>
+	<string>trans_choice</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>trch</string>
+	<key>uuid</key>
+	<string>15D8B515-ECCD-47A6-82AF-B514CAC28719</string>
+</dict>
+</plist>

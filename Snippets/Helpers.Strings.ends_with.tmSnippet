@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>ends_with(${1:'${2:a suffix}', ${3:'${4:fix}'});$5</string>
+	<key>name</key>
+	<string>ends_with</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>enwi</string>
+	<key>uuid</key>
+	<string>D8AB02D7-3D25-4BF7-86D5-3CCF7FC88D49</string>
+</dict>
+</plist>

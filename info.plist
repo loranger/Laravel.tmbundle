@@ -56,6 +56,7 @@ Blade language grammar is bases on https://github.com/Medalink/laravel-blade</st
                 <array>
                     <string>6238F445-72D9-4A2A-8EE5-BE9EA39768B7</string>
                     <string>0EDE2828-8263-4FC2-9213-1703BBC73CF8</string>
+                    <string>1B904AA1-F9CC-4498-880D-7F256E8196E8</string>
                     <string>389275C0-6039-4EF7-BEFD-393323CBB00F</string>
                     <string>------------------------------------</string>
                     <string>6090DFA3-9588-43A5-8C0F-E076B244EBC3</string>
@@ -119,6 +120,39 @@ Blade language grammar is bases on https://github.com/Medalink/laravel-blade</st
                 </array>
                 <key>name</key>
                 <string>Paths</string>
+            </dict>
+            <key>xx-xx-xx-xx-xx</key>
+            <dict>
+                <key>items</key>
+                <array>
+                    <string>xx-xx-xx-xx-xx</string>
+                </array>
+                <key>name</key>
+                <string>Misc</string>
+            </dict>
+            <key>1B904AA1-F9CC-4498-880D-7F256E8196E8</key>
+            <dict>
+                <key>items</key>
+                <array>
+                    <string>85FCE65B-D8B8-4E9E-91B4-D991CDC4BDA6</string>
+                    <string>4A7BFD47-599E-4E23-AD74-C70419EADCF6</string>
+                    <string>86087677-5924-4DEE-A250-687917246C66</string>
+                    <string>D8AB02D7-3D25-4BF7-86D5-3CCF7FC88D49</string>
+                    <string>909E50ED-875F-4BCE-89BC-900DA94BE398</string>
+                    <string>F869D700-CD6E-4EA3-B507-D921F785FC92</string>
+                    <string>1B4A4BC6-4D1D-472A-AB6C-E59C77A1D6F4</string>
+                    <string>515C970F-5F88-4766-92EC-11F86EADC133</string>
+                    <string>614A71CF-22C0-4699-9741-46A192981196</string>
+                    <string>2037FF97-75C8-4BDA-878B-D44279675AB5</string>
+                    <string>83C0CECA-FC68-4E60-9BFE-44F984774EDF</string>
+                    <string>5D21FC81-83ED-44A6-81EB-D28EBE9AE811</string>
+                    <string>D53EAC4A-3E55-4B71-B066-C7A7F52006D9</string>
+                    <string>B1274165-FB00-4E49-94AB-B873BB08044D</string>
+                    <string>15D8B515-ECCD-47A6-82AF-B514CAC28719</string>
+                    <string>155B721F-C454-4BCD-A8E2-FDD4DAC9C23B</string>
+                </array>
+                <key>name</key>
+                <string>Strings</string>
             </dict>
 			<key>CDD61A5F-4582-4E02-A873-F5712BE15740</key>
 			<dict>

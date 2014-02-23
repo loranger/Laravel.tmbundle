@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>start_with(${1:'${2:prefix me}', ${3:'${4:pre}'});$5</string>
+	<key>name</key>
+	<string>starts_with</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>stwi</string>
+	<key>uuid</key>
+	<string>F869D700-CD6E-4EA3-B507-D921F785FC92</string>
+</dict>
+</plist>

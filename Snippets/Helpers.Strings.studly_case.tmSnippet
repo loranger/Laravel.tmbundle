@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>studly_case(${1:'${2:foo_bar}'});$3</string>
+	<key>name</key>
+	<string>studly_case</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>stca</string>
+	<key>uuid</key>
+	<string>B1274165-FB00-4E49-94AB-B873BB08044D</string>
+</dict>
+</plist>
