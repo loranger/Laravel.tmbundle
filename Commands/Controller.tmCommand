@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beforeRunningCommand</key>
+	<string>nop</string>
+	<key>command</key>
+	<string>#!/usr/bin/env php
+&lt;?php
+
+$name = '$1';
+if ( array_key_exists('TM_FILEPATH', $_ENV) ) {
+    $name = basename($_ENV['TM_FILEPATH'], '.php');
+}
+echo &lt;&lt;&lt;OUTPUT
+&lt;?php
+
+class $name extends \BaseController {
+
+	/**
+	 * Display a listing of the resource.
+	 *
+	 * @return Response
+	 */
+	public function index()
+	{
+		//
+	}
+
+	/**
+	 * Show the form for creating a new resource.
+	 *
+	 * @return Response
+	 */
+	public function create()
+	{
+		//
+	}
+
+	/**
+	 * Store a newly created resource in storage.
+	 *
+	 * @return Response
+	 */
+	public function store()
+	{
+		//
+	}
+
+	/**
+	 * Display the specified resource.
+	 *
+	 * @param  int  \$id
+	 * @return Response
+	 */
+	public function show(\$id)
+	{
+		//
+	}
+
+	/**
+	 * Show the form for editing the specified resource.
+	 *
+	 * @param  int  \$id
+	 * @return Response
+	 */
+	public function edit(\$id)
+	{
+		//
+	}
+
+	/**
+	 * Update the specified resource in storage.
+	 *
+	 * @param  int  \$id
+	 * @return Response
+	 */
+	public function update(\$id)
+	{
+		//
+	}
+
+	/**
+	 * Remove the specified resource from storage.
+	 *
+	 * @param  int  \$id
+	 * @return Response
+	 */
+	public function destroy(\$id)
+	{
+		//
+	}
+
+}
+OUTPUT;
+?&gt;</string>
+	<key>input</key>
+	<string>selection</string>
+	<key>inputFormat</key>
+	<string>text</string>
+	<key>name</key>
+	<string>Controller</string>
+	<key>outputCaret</key>
+	<string>afterOutput</string>
+	<key>outputFormat</key>
+	<string>snippet</string>
+	<key>outputLocation</key>
+	<string>replaceInput</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>controller</string>
+	<key>uuid</key>
+	<string>ECF8E75D-1E08-492B-960F-AAA3BE364E92</string>
+	<key>version</key>
+	<integer>2</integer>
+</dict>
+</plist>
