@@ -3,14 +3,17 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>-&gt;with('${1:name}', ${2:'value'})</string>
+	<string>value(${1:function()
+{
+    ${2:return ${3:'bar'};}
+\}});</string>
 	<key>name</key>
-	<string>-&gt;with</string>
+	<string>value</string>
 	<key>scope</key>
 	<string>source.php</string>
 	<key>tabTrigger</key>
-	<string>)with</string>
+	<string>value</string>
 	<key>uuid</key>
-	<string>6090DFA3-9588-43A5-8C0F-E076B244EBC3</string>
+	<string>7ACF5695-4958-4B24-A1AB-9FD48FDA9974</string>
 </dict>
 </plist>

@@ -1,7 +1,7 @@
 # Textmate bundle for Laravel 4
 
 * Laravel 4 snippets
-* Blade syntax
+* Blade language grammar
 * Artisan commands
 * Helpers snippets
 

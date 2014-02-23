@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>-&gt;with('${1:name}', ${2:'value'})</string>
+	<string>csrf_token();$1</string>
 	<key>name</key>
-	<string>-&gt;with</string>
+	<string>csrf_token</string>
 	<key>scope</key>
 	<string>source.php</string>
 	<key>tabTrigger</key>
-	<string>)with</string>
+	<string>csrf</string>
 	<key>uuid</key>
-	<string>6090DFA3-9588-43A5-8C0F-E076B244EBC3</string>
+	<string>507A72CF-6D75-4CE7-A437-430966EA38B4</string>
 </dict>
 </plist>
