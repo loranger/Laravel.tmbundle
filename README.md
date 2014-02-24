@@ -11,7 +11,7 @@
 ## Installing
 
 	cd ~/Library/Application\ Support/Avian/Bundles/
-	git clone git@github.com:loranger/Laravel.tmbundle.git
+	git clone https://github.com/loranger/Laravel.tmbundle.git
 	
 ## Credits
 
