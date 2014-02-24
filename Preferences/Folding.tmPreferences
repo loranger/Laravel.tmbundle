@@ -9,11 +9,11 @@
 	<key>settings</key>
 	<dict>
 		<key>foldingStartMarker</key>
-		<string>(\s{0}|^)(\@)\b(if|elseif|foreach|for|while|unless|each|section)\b(?=(|\s*|)\()</string>
+		<string>(\s{0}|^)(\@)\b(if|elseif|for|foreach|while|unless|each|section)\b(?=(|\s*|)\()</string>
 		<key>foldingStopMarker</key>
 		<string>(\s{0}|^)(\@)\b(endif|endforeach|endfor|endwhile|endunless|show|stop|endsection|overwrite)\b</string>
 	</dict>
 	<key>uuid</key>
-	<string>61A61353-AE17-41C1-B005-0DD1B03CDCA9</string>
+	<string>3824DAFA-EAF4-4085-B12F-039BAF7E5C47</string>
 </dict>
 </plist>
