@@ -8,7 +8,7 @@
 	<string>#!/usr/bin/env bash
 [[ -f "${TM_SUPPORT_PATH}/lib/bash_init.sh" ]] &amp;&amp; . "${TM_SUPPORT_PATH}/lib/bash_init.sh"
 
-echo '&lt;meta http-equiv="refresh" content="0; http://laravel.gen.tr/cheatsheet/"&gt;'</string>
+echo '&lt;meta http-equiv="refresh" content="0; http://cheats.jesse-obrien.ca/"&gt;'</string>
 	<key>fallbackInput</key>
 	<string>scope</string>
 	<key>input</key>
