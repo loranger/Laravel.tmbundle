@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>with(${1:new Foo})$2;$3</string>
+	<string>with(${1:new Foo})${2:;}</string>
 	<key>name</key>
 	<string>with</string>
 	<key>scope</key>

@@ -9,7 +9,7 @@
 	<key>scope</key>
 	<string>source.php</string>
 	<key>tabTrigger</key>
-	<string>)where</string>
+	<string>where</string>
 	<key>uuid</key>
 	<string>CBA97516-B7C1-4C38-9575-38A9B15A1611</string>
 </dict>

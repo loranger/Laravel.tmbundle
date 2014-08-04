@@ -6,9 +6,7 @@
 	<string>Syntax highlighting support for the Laravel Blade markup.</string>
 	<key>fileTypes</key>
 	<array>
-		<string>.blade.php</string>
 		<string>blade.php</string>
-		<string>blade</string>
 	</array>
 	<key>keyEquivalent</key>
 	<string>^~P</string>
@@ -3524,7 +3522,7 @@
 		</dict>
 	</dict>
 	<key>scopeName</key>
-	<string>text.html.laravel-blade</string>
+	<string>source.php.laravel-blade</string>
 	<key>uuid</key>
 	<string>42157C7E-9E0C-443B-9979-8B30EC111CCE</string>
 </dict>
