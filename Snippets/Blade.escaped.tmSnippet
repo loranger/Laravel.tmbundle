@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>escaped</string>
 	<key>scope</key>
-	<string>text.html.laravel-blade</string>
+	<string>source.php.laravel-blade</string>
 	<key>tabTrigger</key>
 	<string>esc</string>
 	<key>uuid</key>

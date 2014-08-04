@@ -9,7 +9,7 @@
 	<key>name</key>
 	<string>while</string>
 	<key>scope</key>
-	<string>text.html.laravel-blade</string>
+	<string>source.php.laravel-blade</string>
 	<key>tabTrigger</key>
 	<string>while</string>
 	<key>uuid</key>
