@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>Route::${1|get,post,resource,any,matched,pattern,filter|}('$2', ${3:function()
+	<string>Route::${1|get,post,resource,controller,any,matched,pattern,filter|}('$2', ${3:function()
 {
     $4
 \}});</string>
