@@ -15,4 +15,4 @@
 	
 ## Credits
 
-Blade language grammar is now based on [Outofcontrol syntax definition](https://github.com/outofcontrol/Blade.tmbundle)
+Blade language grammar is based on [Medialink syntax definition](https://github.com/Medalink/laravel-blade) for Sublime Text
