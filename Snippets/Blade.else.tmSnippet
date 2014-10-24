@@ -8,7 +8,7 @@
 	<key>name</key>
 	<string>else</string>
 	<key>scope</key>
-	<string>source.php.laravel-blade</string>
+	<string>text.html.laravel-blade</string>
 	<key>tabTrigger</key>
 	<string>else</string>
 	<key>uuid</key>

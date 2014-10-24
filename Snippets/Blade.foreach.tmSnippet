@@ -9,7 +9,7 @@
 	<key>name</key>
 	<string>foreach</string>
 	<key>scope</key>
-	<string>source.php.laravel-blade</string>
+	<string>text.html.laravel-blade</string>
 	<key>tabTrigger</key>
 	<string>foreach</string>
 	<key>uuid</key>
