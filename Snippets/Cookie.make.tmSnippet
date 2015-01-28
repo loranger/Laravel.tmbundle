@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>Cookie::make('${1:name}', ${2:'${3:value}'}, ${3:minutes});$4</string>
+	<string>Cookie::make('${1:name}', ${2:'${3:value}'}, ${4:minutes});$5</string>
 	<key>name</key>
 	<string>Cookie::make</string>
 	<key>scope</key>

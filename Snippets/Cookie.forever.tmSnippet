@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>Cookie::forever('${1:name}', ${2:'${3:value}'});$3</string>
+	<string>Cookie::forever('${1:name}', ${2:'${3:value}'});$4</string>
 	<key>name</key>
 	<string>Cookie::forever</string>
 	<key>scope</key>
