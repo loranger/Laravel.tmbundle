@@ -93,6 +93,16 @@ Blade language grammar is based on https://github.com/Medalink/laravel-blade</st
 					<string>A83F1236-6998-43DF-ADAA-C794C28ECDC4</string>
 					<string>87449166-43D8-4B0E-9583-78A740977729</string>
 					<string>------------------------------------</string>
+					<string>command</string>
+					<string>console</string>
+					<string>controller</string>
+					<string>event</string>
+					<string>middleware</string>
+					<string>migration</string>
+					<string>model</string>
+					<string>provider</string>
+					<string>request</string>
+					<string>------------------------------------</string>
 					<string>6A874AB7-B598-4CAB-9645-695216CCDAC0</string>
 					<string>83587943-5CF2-4D66-BFBF-CE71AEAE95B3</string>
 					<string>------------------------------------</string>
