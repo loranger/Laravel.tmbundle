@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>return Redirect::to('${1:url/}')$3;</string>
+	<string>return Redirect::to('${1:url/}')$2;</string>
 	<key>name</key>
 	<string>Redirect::to</string>
 	<key>scope</key>

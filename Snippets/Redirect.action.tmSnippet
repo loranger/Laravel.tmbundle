@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>return Redirect::action('${1:Controller@method}')$3;</string>
+	<string>return Redirect::action('${1:Controller@method}')$2;</string>
 	<key>name</key>
 	<string>Redirect::action</string>
 	<key>scope</key>
