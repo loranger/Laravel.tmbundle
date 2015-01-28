@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
 	<key>comment</key>
@@ -13,6 +13,8 @@
 	<string>\@\b(section)\b(?=(|\s*|)\()</string>
 	<key>foldingStopMarker</key>
 	<string>\)(?!.*\))</string>
+	<key>keyEquivalent</key>
+	<string>^~P</string>
 	<key>name</key>
 	<string>PHP - Laravel Blade</string>
 	<key>patterns</key>
@@ -45,7 +47,7 @@
 		</dict>
 		<dict>
 			<key>begin</key>
-			<string>\{\{\{?-?</string>
+			<string>\{(!!)|(\{\{\{?)-?</string>
 			<key>beginCaptures</key>
 			<dict>
 				<key>0</key>
@@ -57,7 +59,7 @@
 			<key>comment</key>
 			<string>Catches the remainder.</string>
 			<key>end</key>
-			<string>-?\}?\}\}</string>
+			<string>-?(\}?\}\})|(!!)\}</string>
 			<key>endCaptures</key>
 			<dict>
 				<key>0</key>
@@ -111,7 +113,7 @@
 		</dict>
 		<dict>
 			<key>begin</key>
-			<string>(\s{0}|^)(\@)\b(if|elseif|foreach|for|while|extends|unless|each|yield|lang|choice|section|include)\b(?=(|\s*|)\()</string>
+			<string>(\s{0}|^)(\@)\b(if|elseif|forelse|foreach|for|while|extends|unless|each|yield|lang|choice|section|include)\b(?=(|\s*|)\()</string>
 			<key>beginCaptures</key>
 			<dict>
 				<key>1</key>
@@ -192,7 +194,7 @@
 		</dict>
 		<dict>
 			<key>begin</key>
-			<string>(\s{0}|^)(\@)\b(endif|endforeach|endfor|endwhile|else|endunless|show|stop|endsection|parent|overwrite)\b</string>
+			<string>(\s{0}|^)(\@)\b(endif|endforelse|endforeach|endfor|endwhile|else|endunless|show|stop|endsection|parent|overwrite)\b</string>
 			<key>beginCaptures</key>
 			<dict>
 				<key>1</key>

@@ -1,6 +1,6 @@
-# Textmate bundle for Laravel 4
+# Textmate bundle for Laravel 5
 
-* Laravel 4 snippets
+* Laravel 5 snippets
 * Blade language grammar
 * Artisan commands
 * Helpers snippets
