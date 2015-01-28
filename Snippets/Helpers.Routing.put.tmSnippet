@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>put('$1', ${2:function()
+{
+    $3
+\}});</string>
+	<key>name</key>
+	<string>put</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>put</string>
+	<key>uuid</key>
+	<string>E001D721-9EFA-4A84-80F9-8B647BCEF77D</string>
+</dict>
+</plist>
