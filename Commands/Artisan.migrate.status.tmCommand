@@ -14,7 +14,7 @@ if [[ -d $TM_PROJECT_DIRECTORY ]]; then
     fi
 fi</string>
 	<key>name</key>
-	<string>migrate:status</string>
+	<string>status</string>
 	<key>outputLocation</key>
 	<string>toolTip</string>
 	<key>uuid</key>

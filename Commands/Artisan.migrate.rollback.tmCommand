@@ -14,7 +14,7 @@ if [[ -d $TM_PROJECT_DIRECTORY ]]; then
     fi
 fi</string>
 	<key>name</key>
-	<string>migrate:rollback</string>
+	<string>rollback</string>
 	<key>outputLocation</key>
 	<string>toolTip</string>
 	<key>uuid</key>

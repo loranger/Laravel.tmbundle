@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beforeRunningCommand</key>
+	<string>nop</string>
+	<key>command</key>
+	<string>#!/usr/bin/env BASH
+
+select=$TM_SELECTED_TEXT
+if [ ! -z "$TM_CURRENT_WORD" ]
+  then
+    select=$TM_CURRENT_WORD
+fi
+
+if [[ -d $TM_PROJECT_DIRECTORY ]]; then
+    cd "$TM_PROJECT_DIRECTORY";
+    if [ -z "$select" ]
+      then
+        echo "Select a word to become your new command"
+      else
+          if [[ -f 'artisan' ]]; then
+              php ./artisan make:command "$select"
+              mate "app/Commands/$select.php"
+          else
+              echo "Artisan not found in $(pwd)"
+          fi
+    fi
+fi</string>
+	<key>input</key>
+	<string>selection</string>
+	<key>inputFormat</key>
+	<string>text</string>
+	<key>name</key>
+	<string>command</string>
+	<key>outputCaret</key>
+	<string>afterOutput</string>
+	<key>outputFormat</key>
+	<string>text</string>
+	<key>outputLocation</key>
+	<string>toolTip</string>
+	<key>uuid</key>
+	<string>188D8EBF-DF81-4B31-9CB9-18BD0346911C</string>
+	<key>version</key>
+	<integer>2</integer>
+</dict>
+</plist>
