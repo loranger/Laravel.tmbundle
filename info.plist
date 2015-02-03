@@ -7,9 +7,7 @@
 	<key>contactName</key>
 	<string>Laurent Goussard</string>
 	<key>description</key>
-	<string>Laravel 5 Bundle
-
-Blade language grammar is based on https://github.com/Medalink/laravel-blade</string>
+	<string>Model–view–controller web application framework for PHP.</string>
 	<key>mainMenu</key>
 	<dict>
 		<key>excludedItems</key>
@@ -50,8 +48,8 @@ Blade language grammar is based on https://github.com/Medalink/laravel-blade</st
 					<string>1B904AA1-F9CC-4498-880D-7F256E8196E8</string>
 					<string>389275C0-6039-4EF7-BEFD-393323CBB00F</string>
 					<string>------------------------------------</string>
-                    <string>6DE225E3-A980-4701-9C9A-1657ACAB77A6</string>
-                    <string>6261F238-382A-4083-BE62-1CA0B3FAFDD3</string>
+					<string>6DE225E3-A980-4701-9C9A-1657ACAB77A6</string>
+					<string>6261F238-382A-4083-BE62-1CA0B3FAFDD3</string>
 					<string>------------------------------------</string>
 					<string>96C1D40A-2003-45A8-A14B-5869123A8E15</string>
 					<string>6090DFA3-9588-43A5-8C0F-E076B244EBC3</string>
@@ -79,82 +77,41 @@ Blade language grammar is based on https://github.com/Medalink/laravel-blade</st
 				<key>name</key>
 				<string>Response</string>
 			</dict>
-            <key>0B96CC2E-1850-45F9-8585-37318AE3707D</key>
-            <dict>
-                <key>items</key>
-                <array>
-                    <string>54F4119C-5849-4FFB-9CF5-B620380AAEE3</string>
-                    <string>3D114FC1-850C-4A15-8EE8-E433D67621E9</string>
-                    <string>------------------------------------</string>
-                    <string>869F7413-6186-4486-B154-4889E6AB0F2C</string>
-                    <string>6682DAD5-9919-4660-93FB-D8B9AC305682</string>
-                    <string>6C99B746-8935-4F06-BB99-F9ED5B6F7E88</string>
-                    <string>------------------------------------</string>
-                    <string>87296A95-8621-432A-A8C6-845C38410128</string>
-                    <string>------------------------------------</string>
-                    <string>6A874AB7-B598-4CAB-9645-695216CCDAC0</string>
-                    <string>83587943-5CF2-4D66-BFBF-CE71AEAE95B3</string>
-                    <string>------------------------------------</string>
-                    <string>F37876ED-0E22-4E9B-B3B3-1CEFC4FF548A</string>
-                    <string>5835891B-2E5A-4F69-92C9-A54CFC620A4B</string>
-                    <string>2848CAFD-866A-49ED-A4A1-F93AA8D55BB7</string>
-                </array>
-                <key>name</key>
-                <string>Artisan</string>
-            </dict>
-            <key>6C99B746-8935-4F06-BB99-F9ED5B6F7E88</key>
-            <dict>
-                <key>items</key>
-                <array>
-                    <string>9D0DCC16-BC46-4EFD-B697-16E0CB3F5553</string>
-                    <string>740291F1-4902-4FD5-82F7-FF1ECF92ECE6</string>
-                    <string>A83F1236-6998-43DF-ADAA-C794C28ECDC4</string>
-                    <string>87449166-43D8-4B0E-9583-78A740977729</string>
-                </array>
-                <key>name</key>
-                <string>migrate:</string>
-            </dict>
-            <key>87296A95-8621-432A-A8C6-845C38410128</key>
-            <dict>
-                <key>items</key>
-                <array>
-                    <string>188D8EBF-DF81-4B31-9CB9-18BD0346911C</string>
-                    <string>ABAE16C8-4717-4276-9F32-BAC583CDFA1F</string>
-                    <string>1A587EC1-1F83-44C5-BE12-6159F11DBB3E</string>
-                    <string>15F17CD0-5750-43DE-A52D-B59A8B7046A2</string>
-                    <string>A96B9CC6-4958-418C-B162-F471B0971A15</string>
-                    <string>A98975A8-A665-40F5-B24C-C80C89B66D5C</string>
-                    <string>AEDED3A5-A810-4E8F-95EA-C054EBFBA7D9</string>
-                    <string>D10B764E-8B02-4ED2-997F-4D4D2CC04A0F</string>
-                    <string>CBD6CF35-5AA9-4F07-ACF8-60BB2F8B4CA5</string>
-                </array>
-                <key>name</key>
-                <string>make:</string>
-            </dict>
-            <key>0EDE2828-8263-4FC2-9213-1703BBC73CF8</key>
-            <dict>
-                <key>items</key>
-                <array>
-                    <string>20AFB4EA-9C08-4C4E-B56C-1E4B6A19F9E0</string>
-                    <string>8EC20AB9-4032-4828-ACF5-45226A36BF7A</string>
-                    <string>68F98FB3-5BF8-4590-82F0-81A9764A0522</string>
-                    <string>41C4F69C-F9EA-4FD3-8F03-3E31CE295396</string>
-                </array>
-                <key>name</key>
-                <string>Paths</string>
-            </dict>
-            <key>C72FBA69-8E43-46AC-AF4A-6C01C36ADBE9</key>
-            <dict>
-                <key>items</key>
-                <array>
-                    <string>66FB2DDD-6011-4936-A92F-1C4782534AB7</string>
-                    <string>E3BDB45E-A8BF-4CA1-803A-2CBEB06E7B3D</string>
-                    <string>5FF6E713-C8D5-4F14-AB41-A9A554F7E2F3</string>
-                    <string>E001D721-9EFA-4A84-80F9-8B647BCEF77D</string>
-                </array>
-                <key>name</key>
-                <string>Routing</string>
-            </dict>
+			<key>0B96CC2E-1850-45F9-8585-37318AE3707D</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>54F4119C-5849-4FFB-9CF5-B620380AAEE3</string>
+					<string>3D114FC1-850C-4A15-8EE8-E433D67621E9</string>
+					<string>------------------------------------</string>
+					<string>869F7413-6186-4486-B154-4889E6AB0F2C</string>
+					<string>6682DAD5-9919-4660-93FB-D8B9AC305682</string>
+					<string>6C99B746-8935-4F06-BB99-F9ED5B6F7E88</string>
+					<string>------------------------------------</string>
+					<string>87296A95-8621-432A-A8C6-845C38410128</string>
+					<string>------------------------------------</string>
+					<string>6A874AB7-B598-4CAB-9645-695216CCDAC0</string>
+					<string>83587943-5CF2-4D66-BFBF-CE71AEAE95B3</string>
+					<string>------------------------------------</string>
+					<string>F37876ED-0E22-4E9B-B3B3-1CEFC4FF548A</string>
+					<string>5835891B-2E5A-4F69-92C9-A54CFC620A4B</string>
+					<string>2848CAFD-866A-49ED-A4A1-F93AA8D55BB7</string>
+				</array>
+				<key>name</key>
+				<string>Artisan</string>
+			</dict>
+			<key>0EDE2828-8263-4FC2-9213-1703BBC73CF8</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>20AFB4EA-9C08-4C4E-B56C-1E4B6A19F9E0</string>
+					<string>8EC20AB9-4032-4828-ACF5-45226A36BF7A</string>
+					<string>68F98FB3-5BF8-4590-82F0-81A9764A0522</string>
+					<string>41C4F69C-F9EA-4FD3-8F03-3E31CE295396</string>
+				</array>
+				<key>name</key>
+				<string>Paths</string>
+			</dict>
 			<key>10220ABB-02D3-4FDB-B10F-49BF94E7D9AD</key>
 			<dict>
 				<key>items</key>
@@ -268,32 +225,44 @@ Blade language grammar is based on https://github.com/Medalink/laravel-blade</st
 				<key>name</key>
 				<string>Redirect</string>
 			</dict>
-            <key>6238F445-72D9-4A2A-8EE5-BE9EA39768B7</key>
-            <dict>
-                <key>items</key>
-                <array>
-                    <string>602899F8-FD0A-4041-B9F8-9D52ADC5618F</string>
-                    <string>716D8567-F0CD-4D5C-AFFE-A08CF707DC8E</string>
-                    <string>A9AC6B28-E882-4B0C-B771-338CB4904C72</string>
-                    <string>F9BA8F19-4624-4EE4-B31B-D02662F5FA33</string>
-                    <string>6968C076-C6B0-4916-96B2-F2CE9D246885</string>
-                    <string>55C8B7DF-2E81-4588-A002-DFB683D353F6</string>
-                    <string>79F0E8B5-8323-40CA-967F-D7611D472075</string>
-                    <string>0063EF5F-0EF5-4CA1-A3B9-442268B80D57</string>
-                    <string>0BFD93FC-1E8B-496D-8011-EFF0F9420EBC</string>
-                    <string>67477F55-4361-4515-9370-7C9EF521C384</string>
-                    <string>D0D93D61-488C-49F4-9F53-0C9A62CEAFC2</string>
-                    <string>F19BD374-9714-4EE3-94D1-294BD77CF078</string>
-                    <string>4696D67D-3233-462E-B4F8-3B42ADBBFC25</string>
-                    <string>ABAC341F-CE4D-4F56-9ADE-3C0A4C64013C</string>
-                    <string>F93DE80B-B003-4C59-90AE-6F5276F66FD8</string>
-                    <string>AFF7ED66-17F6-4AA9-9287-213FA4E37CFD</string>
-                    <string>145D3194-E0CD-4FCC-BFE3-88BC94AC4CB8</string>
-                    <string>9E4AF72A-6EB4-4686-9D66-1491B4F72F1D</string>
-                </array>
-                <key>name</key>
-                <string>Arrays</string>
-            </dict>
+			<key>6238F445-72D9-4A2A-8EE5-BE9EA39768B7</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>602899F8-FD0A-4041-B9F8-9D52ADC5618F</string>
+					<string>716D8567-F0CD-4D5C-AFFE-A08CF707DC8E</string>
+					<string>A9AC6B28-E882-4B0C-B771-338CB4904C72</string>
+					<string>F9BA8F19-4624-4EE4-B31B-D02662F5FA33</string>
+					<string>6968C076-C6B0-4916-96B2-F2CE9D246885</string>
+					<string>55C8B7DF-2E81-4588-A002-DFB683D353F6</string>
+					<string>79F0E8B5-8323-40CA-967F-D7611D472075</string>
+					<string>0063EF5F-0EF5-4CA1-A3B9-442268B80D57</string>
+					<string>0BFD93FC-1E8B-496D-8011-EFF0F9420EBC</string>
+					<string>67477F55-4361-4515-9370-7C9EF521C384</string>
+					<string>D0D93D61-488C-49F4-9F53-0C9A62CEAFC2</string>
+					<string>F19BD374-9714-4EE3-94D1-294BD77CF078</string>
+					<string>4696D67D-3233-462E-B4F8-3B42ADBBFC25</string>
+					<string>ABAC341F-CE4D-4F56-9ADE-3C0A4C64013C</string>
+					<string>F93DE80B-B003-4C59-90AE-6F5276F66FD8</string>
+					<string>AFF7ED66-17F6-4AA9-9287-213FA4E37CFD</string>
+					<string>145D3194-E0CD-4FCC-BFE3-88BC94AC4CB8</string>
+					<string>9E4AF72A-6EB4-4686-9D66-1491B4F72F1D</string>
+				</array>
+				<key>name</key>
+				<string>Arrays</string>
+			</dict>
+			<key>6C99B746-8935-4F06-BB99-F9ED5B6F7E88</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>9D0DCC16-BC46-4EFD-B697-16E0CB3F5553</string>
+					<string>740291F1-4902-4FD5-82F7-FF1ECF92ECE6</string>
+					<string>A83F1236-6998-43DF-ADAA-C794C28ECDC4</string>
+					<string>87449166-43D8-4B0E-9583-78A740977729</string>
+				</array>
+				<key>name</key>
+				<string>migrate:</string>
+			</dict>
 			<key>77A45FC9-8256-47E3-BB7D-6417B0D1F590</key>
 			<dict>
 				<key>items</key>
@@ -332,6 +301,23 @@ Blade language grammar is based on https://github.com/Medalink/laravel-blade</st
 				<key>name</key>
 				<string>URL</string>
 			</dict>
+			<key>87296A95-8621-432A-A8C6-845C38410128</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>188D8EBF-DF81-4B31-9CB9-18BD0346911C</string>
+					<string>ABAE16C8-4717-4276-9F32-BAC583CDFA1F</string>
+					<string>1A587EC1-1F83-44C5-BE12-6159F11DBB3E</string>
+					<string>15F17CD0-5750-43DE-A52D-B59A8B7046A2</string>
+					<string>A96B9CC6-4958-418C-B162-F471B0971A15</string>
+					<string>A98975A8-A665-40F5-B24C-C80C89B66D5C</string>
+					<string>AEDED3A5-A810-4E8F-95EA-C054EBFBA7D9</string>
+					<string>D10B764E-8B02-4ED2-997F-4D4D2CC04A0F</string>
+					<string>CBD6CF35-5AA9-4F07-ACF8-60BB2F8B4CA5</string>
+				</array>
+				<key>name</key>
+				<string>make:</string>
+			</dict>
 			<key>96C1D40A-2003-45A8-A14B-5869123A8E15</key>
 			<dict>
 				<key>items</key>
@@ -346,6 +332,18 @@ Blade language grammar is based on https://github.com/Medalink/laravel-blade</st
 				</array>
 				<key>name</key>
 				<string>Miscellaneous</string>
+			</dict>
+			<key>C72FBA69-8E43-46AC-AF4A-6C01C36ADBE9</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>66FB2DDD-6011-4936-A92F-1C4782534AB7</string>
+					<string>E3BDB45E-A8BF-4CA1-803A-2CBEB06E7B3D</string>
+					<string>5FF6E713-C8D5-4F14-AB41-A9A554F7E2F3</string>
+					<string>E001D721-9EFA-4A84-80F9-8B647BCEF77D</string>
+				</array>
+				<key>name</key>
+				<string>Routing</string>
 			</dict>
 			<key>CDD61A5F-4582-4E02-A873-F5712BE15740</key>
 			<dict>
