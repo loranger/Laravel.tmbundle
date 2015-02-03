@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>storage_path();$1</string>
+	<string>storage_path();</string>
 	<key>name</key>
 	<string>storage_path</string>
 	<key>scope</key>

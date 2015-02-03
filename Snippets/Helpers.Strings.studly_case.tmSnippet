@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>studly_case(${1:'${2:foo_bar}'});$3</string>
+	<string>studly_case(${1:'${2:foo_bar}'});</string>
 	<key>name</key>
 	<string>studly_case</string>
 	<key>scope</key>

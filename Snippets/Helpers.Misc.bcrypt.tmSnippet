@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>bcrypt(${1:\$value}${2:, \$options})$3;</string>
+	<string>bcrypt(${1:\$value}${2:, \$options})${3:;}</string>
 	<key>name</key>
 	<string>bcrypt</string>
 	<key>scope</key>

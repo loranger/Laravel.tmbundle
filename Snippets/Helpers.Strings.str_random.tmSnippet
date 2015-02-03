@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>str_random(${1:42);$2</string>
+	<string>str_random(${1:42);</string>
 	<key>name</key>
 	<string>str_random</string>
 	<key>scope</key>

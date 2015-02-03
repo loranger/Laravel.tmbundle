@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>Input::all();$1</string>
+	<string>Input::all();</string>
 	<key>name</key>
 	<string>Input::all</string>
 	<key>scope</key>

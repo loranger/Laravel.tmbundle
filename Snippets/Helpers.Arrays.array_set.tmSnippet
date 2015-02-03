@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>array_set(${1:\$array}, ${2:'${3:key.name}'}, ${4:'${5:value}'});$6</string>
+	<string>array_set(${1:\$array}, ${2:'${3:key.name}'}, ${4:'${5:value}'});</string>
 	<key>name</key>
 	<string>array_set</string>
 	<key>scope</key>

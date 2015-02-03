@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>csrf_token();$1</string>
+	<string>csrf_token();</string>
 	<key>name</key>
 	<string>csrf_token</string>
 	<key>scope</key>

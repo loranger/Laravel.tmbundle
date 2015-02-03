@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>put('$1', ${2:function()
 {
-    $3
+	$3
 \}});</string>
 	<key>name</key>
 	<string>put</string>

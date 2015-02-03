@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>str_singular(${1:'${2:cars}');$3</string>
+	<string>str_singular(${1:'${2:cars}');</string>
 	<key>name</key>
 	<string>str_singular</string>
 	<key>scope</key>

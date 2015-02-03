@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>Input::flashExcept(${1:'${2:name}'}${3:, '${4:name}'});$5</string>
+	<string>Input::flashExcept(${1:'${2:name}'}${3:, '${4:name}'});</string>
 	<key>name</key>
 	<string>Input::flashExcept</string>
 	<key>scope</key>

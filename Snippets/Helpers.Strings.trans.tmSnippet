@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>trans(${1:'${2:string}'});$3</string>
+	<string>trans(${1:'${2:string}'});</string>
 	<key>name</key>
 	<string>trans</string>
 	<key>scope</key>

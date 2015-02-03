@@ -4,12 +4,12 @@
 <dict>
 	<key>content</key>
 	<string>@foreach(${1:\$collection} as ${2:\$item})
-    $2
+	$2
 @endforeach</string>
 	<key>name</key>
 	<string>foreach</string>
 	<key>scope</key>
-	<string>text.html.laravel-blade</string>
+	<string>text.html.php.laravel-blade</string>
 	<key>tabTrigger</key>
 	<string>foreach</string>
 	<key>uuid</key>

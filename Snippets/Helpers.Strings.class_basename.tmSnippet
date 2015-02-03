@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>class_basename(${1:'${2:Foo\Bar}'});$3</string>
+	<string>class_basename(${1:'${2:Foo\Bar}'});</string>
 	<key>name</key>
 	<string>class_basename</string>
 	<key>scope</key>

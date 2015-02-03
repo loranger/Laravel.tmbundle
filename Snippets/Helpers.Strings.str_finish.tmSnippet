@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>str_finish(${1:'${2:a string}', ${3:'${4:.}'});$5</string>
+	<string>str_finish(${1:'${2:a string}', ${3:'${4:.}'});</string>
 	<key>name</key>
 	<string>str_finish</string>
 	<key>scope</key>

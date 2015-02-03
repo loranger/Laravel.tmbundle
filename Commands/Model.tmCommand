@@ -11,13 +11,16 @@
 $name = '$1';
 $content = '$2';
 if ( array_key_exists('TM_FILEPATH', $_ENV) ) {
-    $name = basename($_ENV['TM_FILEPATH'], '.php');
-    $content = '$1';
+	$name = ucfirst(basename($_ENV['TM_FILEPATH'], '.php'));
+	$namespace = ucfirst(basename(dirname($_ENV['TM_FILEPATH'])));
+	$content = '$1';
 }
 echo &lt;&lt;&lt;OUTPUT
-&lt;?php
+&lt;?php namespace $namespace;
 
-class $name extends Eloquent {
+use Illuminate\Database\Eloquent\Model;
+
+class $name extends Model {
     $content
 }
 OUTPUT;

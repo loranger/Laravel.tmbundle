@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>Input::file(${1:'${2:name}'})-&gt;${3|getRealPath,getClientOriginalName,getClientOriginalExtension,getSize,getMimeType|}();$4</string>
+	<string>Input::file(${1:'${2:name}'})-&gt;${3|getRealPath,getClientOriginalName,getClientOriginalExtension,getSize,getMimeType|}();</string>
 	<key>name</key>
 	<string>Input::file-&gt;</string>
 	<key>scope</key>

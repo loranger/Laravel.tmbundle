@@ -3526,7 +3526,7 @@
 		</dict>
 	</dict>
 	<key>scopeName</key>
-	<string>text.html.laravel-blade</string>
+	<string>text.html.php.laravel-blade</string>
 	<key>uuid</key>
 	<string>70911d1c-0a7c-4cb5-9771-d71d23d8ab1a</string>
 </dict>

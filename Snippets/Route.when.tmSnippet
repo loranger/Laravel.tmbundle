@@ -3,11 +3,11 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>Route::when('${1:url/*}', '${2:name}')$3</string>
+	<string>Route::when('${1:url/*}', '${2:name}')</string>
 	<key>name</key>
 	<string>Route::when</string>
 	<key>scope</key>
-	<string>soure.php</string>
+	<string>source.php</string>
 	<key>tabTrigger</key>
 	<string>r:w</string>
 	<key>uuid</key>

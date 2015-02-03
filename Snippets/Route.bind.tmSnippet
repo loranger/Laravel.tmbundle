@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>Route::bind('$1', ${2:function(\$value, \$route)
 {
-    $3
+	$3
 \}});</string>
 	<key>name</key>
 	<string>Route::bind</string>

@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>asset('${1:img/pic.jpg}')$2</string>
+	<string>asset('${1:img/pic.jpg}')</string>
 	<key>name</key>
 	<string>asset</string>
 	<key>scope</key>

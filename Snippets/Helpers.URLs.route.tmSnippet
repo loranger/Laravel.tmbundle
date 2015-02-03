@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>route('${1:name}'${2:, \$params})$3</string>
+	<string>route('${1:name}'${2:, \$params})</string>
 	<key>name</key>
 	<string>route</string>
 	<key>scope</key>

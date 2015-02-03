@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>array_dot(${1:\$array});$2</string>
+	<string>array_dot(${1:\$array});</string>
 	<key>name</key>
 	<string>array_dot</string>
 	<key>scope</key>

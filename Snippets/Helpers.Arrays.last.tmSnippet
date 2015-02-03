@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>last(${1:\$array});$2</string>
+	<string>last(${1:\$array});</string>
 	<key>name</key>
 	<string>last</string>
 	<key>scope</key>

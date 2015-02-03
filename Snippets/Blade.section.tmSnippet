@@ -4,12 +4,12 @@
 <dict>
 	<key>content</key>
 	<string>@section('${1:name}')
-    $2
+	$2
 @${3|stop,show,overwrite|}</string>
 	<key>name</key>
 	<string>section</string>
 	<key>scope</key>
-	<string>text.html.laravel-blade</string>
+	<string>text.html.php.laravel-blade</string>
 	<key>tabTrigger</key>
 	<string>section</string>
 	<key>uuid</key>

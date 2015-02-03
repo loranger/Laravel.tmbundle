@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>trans_choice(${1:'${2:foo_bar}'}, ${3:\$count});$4</string>
+	<string>trans_choice(${1:'${2:foo_bar}'}, ${3:\$count});</string>
 	<key>name</key>
 	<string>trans_choice</string>
 	<key>scope</key>

@@ -4,11 +4,11 @@
 <dict>
 	<key>content</key>
 	<string>@else
-    $1</string>
+	$1</string>
 	<key>name</key>
 	<string>else</string>
 	<key>scope</key>
-	<string>text.html.laravel-blade</string>
+	<string>text.html.php.laravel-blade</string>
 	<key>tabTrigger</key>
 	<string>else</string>
 	<key>uuid</key>

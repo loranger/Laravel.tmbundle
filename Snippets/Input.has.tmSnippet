@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>Input::has(${1:'${2:name}'});$3</string>
+	<string>Input::has(${1:'${2:name}'});</string>
 	<key>name</key>
 	<string>Input::has</string>
 	<key>scope</key>

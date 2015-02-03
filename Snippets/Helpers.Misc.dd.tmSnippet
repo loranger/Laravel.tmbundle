@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>dd($1);$2</string>
+	<string>dd($1);</string>
 	<key>name</key>
 	<string>dd</string>
 	<key>scope</key>

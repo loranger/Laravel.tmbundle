@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>Input::except(${1:'${2:name}'}${3:, '${4:name}'});$5</string>
+	<string>Input::except(${1:'${2:name}'}${3:, '${4:name}'});</string>
 	<key>name</key>
 	<string>Input::except</string>
 	<key>scope</key>

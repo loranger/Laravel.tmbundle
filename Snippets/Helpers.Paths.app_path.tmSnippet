@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>app_path();$1</string>
+	<string>app_path();</string>
 	<key>name</key>
 	<string>app_path</string>
 	<key>scope</key>

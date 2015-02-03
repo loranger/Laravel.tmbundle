@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>str_contains(${1:'${2:a whole string}', ${3:'${4:whole}'});$5</string>
+	<string>str_contains(${1:'${2:a whole string}', ${3:'${4:whole}'});</string>
 	<key>name</key>
 	<string>str_contains</string>
 	<key>scope</key>

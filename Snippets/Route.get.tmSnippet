@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>Route::get('$1', ${2:function()
 {
-    $3
+	$3
 \}});</string>
 	<key>name</key>
 	<string>Route::get</string>

@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>raw</string>
 	<key>scope</key>
-	<string>text.html.laravel-blade</string>
+	<string>text.html.php.laravel-blade</string>
 	<key>tabTrigger</key>
 	<string>raw</string>
 	<key>uuid</key>

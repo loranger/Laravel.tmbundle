@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>Input::get('${1:name}'${2:, ${3:'default'}});$4</string>
+	<string>Input::get('${1:name}'${2:, ${3:'default'}});</string>
 	<key>name</key>
 	<string>Input::get</string>
 	<key>scope</key>

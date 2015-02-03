@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>Route::${1|get,post,resource,controller,group,any,matched,pattern,filter|}('$2', ${3:function()
 {
-    $4
+	$4
 \}});</string>
 	<key>name</key>
 	<string>Route</string>

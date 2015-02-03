@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>array_only(${1:\$array}, ${2:array(${3:'${4:key}'})});$5</string>
+	<string>array_only(${1:\$array}, ${2:array(${3:'${4:key}'})});</string>
 	<key>name</key>
 	<string>array_only</string>
 	<key>scope</key>

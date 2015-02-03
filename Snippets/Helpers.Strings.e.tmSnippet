@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>e(${1:'${2:&lt;p&gt;html&lt;/p&gt;}'});$3</string>
+	<string>e(${1:'${2:&lt;p&gt;html&lt;/p&gt;}'});</string>
 	<key>name</key>
 	<string>e</string>
 	<key>scope</key>

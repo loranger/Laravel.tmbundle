@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>snake_case(${1:'${2:fooBar}'});$3</string>
+	<string>snake_case(${1:'${2:fooBar}'});</string>
 	<key>name</key>
 	<string>snake_case</string>
 	<key>scope</key>

@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>array_pull(${1:\$array}, ${2:'${3:key}'});$4</string>
+	<string>array_pull(${1:\$array}, ${2:'${3:key}'});</string>
 	<key>name</key>
 	<string>array_pull</string>
 	<key>scope</key>

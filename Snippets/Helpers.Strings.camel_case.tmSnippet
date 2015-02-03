@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>camel_case(${1:'${2:foo_bar}'});$3</string>
+	<string>camel_case(${1:'${2:foo_bar}'});</string>
 	<key>name</key>
 	<string>camel_case</string>
 	<key>scope</key>

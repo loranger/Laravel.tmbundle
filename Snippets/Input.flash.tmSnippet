@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>Input::flash();$1</string>
+	<string>Input::flash();</string>
 	<key>name</key>
 	<string>Input::flash</string>
 	<key>scope</key>

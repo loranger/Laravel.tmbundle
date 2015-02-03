@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>start_with(${1:'${2:prefix me}', ${3:'${4:pre}'});$5</string>
+	<string>start_with(${1:'${2:prefix me}', ${3:'${4:pre}'});</string>
 	<key>name</key>
 	<string>starts_with</string>
 	<key>scope</key>

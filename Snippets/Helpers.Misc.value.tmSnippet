@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>value(${1:function()
 {
-    ${2:return ${3:'bar'};}
+	${2:return ${3:'bar'};}
 \}});</string>
 	<key>name</key>
 	<string>value</string>

@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>str_plural(${1:'${2:car}');$3</string>
+	<string>str_plural(${1:'${2:car}');</string>
 	<key>name</key>
 	<string>str_plural</string>
 	<key>scope</key>

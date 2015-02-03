@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>info(${1:'${2:key}'}${3:, '${4:default}'})$5;</string>
+	<string>info(${1:'${2:key}'}${3:, '${4:default}'})${5:;}</string>
 	<key>name</key>
 	<string>config</string>
 	<key>scope</key>

@@ -4,12 +4,12 @@
 <dict>
 	<key>content</key>
 	<string>@while($1)
-    $2
+	$2
 @endwhile</string>
 	<key>name</key>
 	<string>while</string>
 	<key>scope</key>
-	<string>text.html.laravel-blade</string>
+	<string>text.html.php.laravel-blade</string>
 	<key>tabTrigger</key>
 	<string>while</string>
 	<key>uuid</key>

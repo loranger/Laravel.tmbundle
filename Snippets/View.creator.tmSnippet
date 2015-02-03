@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>View::creator('$1', ${2:function()
 {
-    $3
+	$3
 \}});</string>
 	<key>name</key>
 	<string>View::creator</string>

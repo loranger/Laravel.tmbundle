@@ -20,7 +20,7 @@ if [[ -d $TM_PROJECT_DIRECTORY ]]; then
         echo "Select a word to become your new model"
       else
           if [[ -f 'artisan' ]]; then
-              php ./artisan make:modle "$select"
+              php ./artisan make:model "$select"
               mate "app/$select.php"
           else
               echo "Artisan not found in $(pwd)"

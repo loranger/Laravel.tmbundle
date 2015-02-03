@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>ends_with(${1:'${2:a suffix}', ${3:'${4:fix}'});$5</string>
+	<string>ends_with(${1:'${2:a suffix}', ${3:'${4:fix}'});</string>
 	<key>name</key>
 	<string>ends_with</string>
 	<key>scope</key>

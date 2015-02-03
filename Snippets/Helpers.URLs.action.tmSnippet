@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>action('${1:Controller}'${2:, \$params})$3</string>
+	<string>action('${1:Controller}'${2:, \$params})</string>
 	<key>name</key>
 	<string>action</string>
 	<key>scope</key>

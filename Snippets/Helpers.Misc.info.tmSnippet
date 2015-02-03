@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>info(${1:'${2:message}'}${3:, '${4:context}'})$5;</string>
+	<string>info(${1:'${2:message}'}${3:, '${4:context}'});</string>
 	<key>name</key>
 	<string>info</string>
 	<key>scope</key>

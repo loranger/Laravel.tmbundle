@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>Route::filter('${1:name}', ${2:function(${3:\$route}, ${4:\$request}, ${5:\$response}, ${6:\$value})
 {
-    $7
+	$7
 \}});</string>
 	<key>name</key>
 	<string>Route::filter</string>

@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>Input::${1|get,has,all,only,except|}($2);$3</string>
+	<string>Input::${1|get,has,all,only,except|}($2);</string>
 	<key>name</key>
 	<string>Input</string>
 	<key>scope</key>

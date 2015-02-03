@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>array_get(${1:\$array}, ${2:'${3:key.name}'});$4</string>
+	<string>array_get(${1:\$array}, ${2:'${3:key.name}'});</string>
 	<key>name</key>
 	<string>array_get</string>
 	<key>scope</key>

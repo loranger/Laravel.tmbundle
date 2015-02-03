@@ -10,12 +10,17 @@
 
 $name = '$1';
 if ( array_key_exists('TM_FILEPATH', $_ENV) ) {
-    $name = basename($_ENV['TM_FILEPATH'], '.php');
+	$name = ucfirst(basename($_ENV['TM_FILEPATH'], '.php'))
 }
 echo &lt;&lt;&lt;OUTPUT
-&lt;?php
+&lt;?php namespace App\Http\Controllers;
 
-class $name extends \BaseController {
+use App\Http\Requests;
+use App\Http\Controllers\Controller;
+
+use Illuminate\Http\Request;
+
+class $name extends Controller {
 
 	/**
 	 * Display a listing of the resource.
@@ -92,6 +97,7 @@ class $name extends \BaseController {
 	}
 
 }
+
 OUTPUT;
 ?&gt;</string>
 	<key>input</key>

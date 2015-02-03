@@ -4,12 +4,12 @@
 <dict>
 	<key>content</key>
 	<string>@unless($1)
-    $2
+	$2
 @endunless</string>
 	<key>name</key>
 	<string>unless</string>
 	<key>scope</key>
-	<string>text.html.laravel-blade</string>
+	<string>text.html.php.laravel-blade</string>
 	<key>tabTrigger</key>
 	<string>unless</string>
 	<key>uuid</key>

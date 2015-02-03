@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>str_is(${1:'${2:foo*}', ${3:'${4:foobar}'});$5</string>
+	<string>str_is(${1:'${2:foo*}', ${3:'${4:foobar}'});</string>
 	<key>name</key>
 	<string>str_is</string>
 	<key>scope</key>

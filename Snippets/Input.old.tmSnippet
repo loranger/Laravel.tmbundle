@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>Input::old(${1:'${2:name}'});$3</string>
+	<string>Input::old(${1:'${2:name}'});</string>
 	<key>name</key>
 	<string>Input::old</string>
 	<key>scope</key>
