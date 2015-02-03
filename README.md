@@ -15,4 +15,4 @@
 	
 ## Credits
 
-Blade language grammar is based on [Medialink syntax definition](https://github.com/Medalink/laravel-blade) for Sublime Text
+Blade language grammar is based on [Medalink syntax definition](https://github.com/Medalink/laravel-blade) for Sublime Text
