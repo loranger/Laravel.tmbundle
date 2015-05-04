@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Route::resources(${1:[$2]});</string>
+	<key>name</key>
+	<string>Route::resources</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>r:c</string>
+	<key>uuid</key>
+	<string>7504663E-F259-11E4-92F2-6769A3F5A326</string>
+</dict>
+</plist>
