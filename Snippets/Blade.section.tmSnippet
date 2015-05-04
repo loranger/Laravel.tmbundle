@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>@section('${1:name}')
 	$2
-@${3|stop,show,overwrite|}</string>
+@${3|endsection,stop,show,overwrite|}</string>
 	<key>name</key>
 	<string>section</string>
 	<key>scope</key>
