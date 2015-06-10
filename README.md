@@ -10,7 +10,7 @@
 
 ## Installing
 
-	cd ~/Library/Application\ Support/Avian/Bundles/
+	cd ~/Library/Application\ Support/TextMate/Bundles/
 	git clone https://github.com/loranger/Laravel.tmbundle.git
 	
 ## Credits
