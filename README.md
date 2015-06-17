@@ -12,6 +12,7 @@
 
 	cd ~/Library/Application\ Support/TextMate/Bundles/
 	git clone https://github.com/loranger/Laravel.tmbundle.git
+	open Laravel.tmbundle
 	
 ## Credits
 
